@@ -1,0 +1,609 @@
+[17-Mar-2016 03:57:40 UTC] PHP Notice:  Undefined variable: resultPortfolio in /home/aapio500/public_html/index.php on line 164
+[17-Mar-2016 03:57:40 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/aapio500/public_html/index.php on line 164
+[17-Mar-2016 03:58:50 UTC] PHP Notice:  Constant HOST already defined in /home/aapio500/public_html/loginSystem/includes/conn.inc.php on line 3
+[17-Mar-2016 03:58:50 UTC] PHP Notice:  Constant USER already defined in /home/aapio500/public_html/loginSystem/includes/conn.inc.php on line 4
+[17-Mar-2016 03:58:50 UTC] PHP Notice:  Constant PASSWORD already defined in /home/aapio500/public_html/loginSystem/includes/conn.inc.php on line 5
+[17-Mar-2016 03:58:50 UTC] PHP Notice:  Constant DATABASE already defined in /home/aapio500/public_html/loginSystem/includes/conn.inc.php on line 6
+[17-Mar-2016 03:58:50 UTC] PHP Notice:  Constant CAN_REGISTER already defined in /home/aapio500/public_html/loginSystem/includes/conn.inc.php on line 7
+[17-Mar-2016 03:58:50 UTC] PHP Notice:  Constant DEFAULT_ROLE already defined in /home/aapio500/public_html/loginSystem/includes/conn.inc.php on line 8
+[17-Mar-2016 03:58:50 UTC] PHP Notice:  Constant SECURE already defined in /home/aapio500/public_html/loginSystem/includes/conn.inc.php on line 9
+[17-Mar-2016 03:58:50 UTC] PHP Notice:  Constant HOST already defined in /home/aapio500/public_html/loginSystem/includes/conn.inc.php on line 3
+[17-Mar-2016 03:58:50 UTC] PHP Notice:  Constant USER already defined in /home/aapio500/public_html/loginSystem/includes/conn.inc.php on line 4
+[17-Mar-2016 03:58:50 UTC] PHP Notice:  Constant PASSWORD already defined in /home/aapio500/public_html/loginSystem/includes/conn.inc.php on line 5
+[17-Mar-2016 03:58:50 UTC] PHP Notice:  Constant DATABASE already defined in /home/aapio500/public_html/loginSystem/includes/conn.inc.php on line 6
+[17-Mar-2016 03:58:50 UTC] PHP Notice:  Constant CAN_REGISTER already defined in /home/aapio500/public_html/loginSystem/includes/conn.inc.php on line 7
+[17-Mar-2016 03:58:50 UTC] PHP Notice:  Constant DEFAULT_ROLE already defined in /home/aapio500/public_html/loginSystem/includes/conn.inc.php on line 8
+[17-Mar-2016 03:58:50 UTC] PHP Notice:  Constant SECURE already defined in /home/aapio500/public_html/loginSystem/includes/conn.inc.php on line 9
+[17-Mar-2016 04:00:03 UTC] PHP Notice:  Constant HOST already defined in /home/aapio500/public_html/loginSystem/includes/conn.inc.php on line 3
+[17-Mar-2016 04:00:03 UTC] PHP Notice:  Constant USER already defined in /home/aapio500/public_html/loginSystem/includes/conn.inc.php on line 4
+[17-Mar-2016 04:00:03 UTC] PHP Notice:  Constant PASSWORD already defined in /home/aapio500/public_html/loginSystem/includes/conn.inc.php on line 5
+[17-Mar-2016 04:00:03 UTC] PHP Notice:  Constant DATABASE already defined in /home/aapio500/public_html/loginSystem/includes/conn.inc.php on line 6
+[17-Mar-2016 04:00:03 UTC] PHP Notice:  Constant CAN_REGISTER already defined in /home/aapio500/public_html/loginSystem/includes/conn.inc.php on line 7
+[17-Mar-2016 04:00:03 UTC] PHP Notice:  Constant DEFAULT_ROLE already defined in /home/aapio500/public_html/loginSystem/includes/conn.inc.php on line 8
+[17-Mar-2016 04:00:03 UTC] PHP Notice:  Constant SECURE already defined in /home/aapio500/public_html/loginSystem/includes/conn.inc.php on line 9
+[17-Mar-2016 04:00:03 UTC] PHP Notice:  Constant HOST already defined in /home/aapio500/public_html/loginSystem/includes/conn.inc.php on line 3
+[17-Mar-2016 04:00:03 UTC] PHP Notice:  Constant USER already defined in /home/aapio500/public_html/loginSystem/includes/conn.inc.php on line 4
+[17-Mar-2016 04:00:03 UTC] PHP Notice:  Constant PASSWORD already defined in /home/aapio500/public_html/loginSystem/includes/conn.inc.php on line 5
+[17-Mar-2016 04:00:03 UTC] PHP Notice:  Constant DATABASE already defined in /home/aapio500/public_html/loginSystem/includes/conn.inc.php on line 6
+[17-Mar-2016 04:00:03 UTC] PHP Notice:  Constant CAN_REGISTER already defined in /home/aapio500/public_html/loginSystem/includes/conn.inc.php on line 7
+[17-Mar-2016 04:00:03 UTC] PHP Notice:  Constant DEFAULT_ROLE already defined in /home/aapio500/public_html/loginSystem/includes/conn.inc.php on line 8
+[17-Mar-2016 04:00:03 UTC] PHP Notice:  Constant SECURE already defined in /home/aapio500/public_html/loginSystem/includes/conn.inc.php on line 9
+[17-Mar-2016 04:00:06 UTC] PHP Notice:  Constant HOST already defined in /home/aapio500/public_html/loginSystem/includes/conn.inc.php on line 3
+[17-Mar-2016 04:00:06 UTC] PHP Notice:  Constant USER already defined in /home/aapio500/public_html/loginSystem/includes/conn.inc.php on line 4
+[17-Mar-2016 04:00:06 UTC] PHP Notice:  Constant PASSWORD already defined in /home/aapio500/public_html/loginSystem/includes/conn.inc.php on line 5
+[17-Mar-2016 04:00:06 UTC] PHP Notice:  Constant DATABASE already defined in /home/aapio500/public_html/loginSystem/includes/conn.inc.php on line 6
+[17-Mar-2016 04:00:06 UTC] PHP Notice:  Constant CAN_REGISTER already defined in /home/aapio500/public_html/loginSystem/includes/conn.inc.php on line 7
+[17-Mar-2016 04:00:06 UTC] PHP Notice:  Constant DEFAULT_ROLE already defined in /home/aapio500/public_html/loginSystem/includes/conn.inc.php on line 8
+[17-Mar-2016 04:00:06 UTC] PHP Notice:  Constant SECURE already defined in /home/aapio500/public_html/loginSystem/includes/conn.inc.php on line 9
+[17-Mar-2016 04:00:06 UTC] PHP Notice:  Constant HOST already defined in /home/aapio500/public_html/loginSystem/includes/conn.inc.php on line 3
+[17-Mar-2016 04:00:06 UTC] PHP Notice:  Constant USER already defined in /home/aapio500/public_html/loginSystem/includes/conn.inc.php on line 4
+[17-Mar-2016 04:00:06 UTC] PHP Notice:  Constant PASSWORD already defined in /home/aapio500/public_html/loginSystem/includes/conn.inc.php on line 5
+[17-Mar-2016 04:00:06 UTC] PHP Notice:  Constant DATABASE already defined in /home/aapio500/public_html/loginSystem/includes/conn.inc.php on line 6
+[17-Mar-2016 04:00:06 UTC] PHP Notice:  Constant CAN_REGISTER already defined in /home/aapio500/public_html/loginSystem/includes/conn.inc.php on line 7
+[17-Mar-2016 04:00:06 UTC] PHP Notice:  Constant DEFAULT_ROLE already defined in /home/aapio500/public_html/loginSystem/includes/conn.inc.php on line 8
+[17-Mar-2016 04:00:06 UTC] PHP Notice:  Constant SECURE already defined in /home/aapio500/public_html/loginSystem/includes/conn.inc.php on line 9
+[17-Mar-2016 04:02:31 UTC] PHP Notice:  Constant HOST already defined in /home/aapio500/public_html/loginSystem/includes/conn.inc.php on line 3
+[17-Mar-2016 04:02:31 UTC] PHP Notice:  Constant USER already defined in /home/aapio500/public_html/loginSystem/includes/conn.inc.php on line 4
+[17-Mar-2016 04:02:31 UTC] PHP Notice:  Constant PASSWORD already defined in /home/aapio500/public_html/loginSystem/includes/conn.inc.php on line 5
+[17-Mar-2016 04:02:31 UTC] PHP Notice:  Constant DATABASE already defined in /home/aapio500/public_html/loginSystem/includes/conn.inc.php on line 6
+[17-Mar-2016 04:02:31 UTC] PHP Notice:  Constant CAN_REGISTER already defined in /home/aapio500/public_html/loginSystem/includes/conn.inc.php on line 7
+[17-Mar-2016 04:02:31 UTC] PHP Notice:  Constant DEFAULT_ROLE already defined in /home/aapio500/public_html/loginSystem/includes/conn.inc.php on line 8
+[17-Mar-2016 04:02:31 UTC] PHP Notice:  Constant SECURE already defined in /home/aapio500/public_html/loginSystem/includes/conn.inc.php on line 9
+[17-Mar-2016 04:02:32 UTC] PHP Notice:  Constant HOST already defined in /home/aapio500/public_html/loginSystem/includes/conn.inc.php on line 3
+[17-Mar-2016 04:02:32 UTC] PHP Notice:  Constant USER already defined in /home/aapio500/public_html/loginSystem/includes/conn.inc.php on line 4
+[17-Mar-2016 04:02:32 UTC] PHP Notice:  Constant PASSWORD already defined in /home/aapio500/public_html/loginSystem/includes/conn.inc.php on line 5
+[17-Mar-2016 04:02:32 UTC] PHP Notice:  Constant DATABASE already defined in /home/aapio500/public_html/loginSystem/includes/conn.inc.php on line 6
+[17-Mar-2016 04:02:32 UTC] PHP Notice:  Constant CAN_REGISTER already defined in /home/aapio500/public_html/loginSystem/includes/conn.inc.php on line 7
+[17-Mar-2016 04:02:32 UTC] PHP Notice:  Constant DEFAULT_ROLE already defined in /home/aapio500/public_html/loginSystem/includes/conn.inc.php on line 8
+[17-Mar-2016 04:02:32 UTC] PHP Notice:  Constant SECURE already defined in /home/aapio500/public_html/loginSystem/includes/conn.inc.php on line 9
+[17-Mar-2016 04:04:26 UTC] PHP Notice:  Constant HOST already defined in /home/aapio500/public_html/loginSystem/includes/conn.inc.php on line 3
+[17-Mar-2016 04:04:26 UTC] PHP Notice:  Constant USER already defined in /home/aapio500/public_html/loginSystem/includes/conn.inc.php on line 4
+[17-Mar-2016 04:04:26 UTC] PHP Notice:  Constant PASSWORD already defined in /home/aapio500/public_html/loginSystem/includes/conn.inc.php on line 5
+[17-Mar-2016 04:04:26 UTC] PHP Notice:  Constant DATABASE already defined in /home/aapio500/public_html/loginSystem/includes/conn.inc.php on line 6
+[17-Mar-2016 04:04:26 UTC] PHP Notice:  Constant CAN_REGISTER already defined in /home/aapio500/public_html/loginSystem/includes/conn.inc.php on line 7
+[17-Mar-2016 04:04:26 UTC] PHP Notice:  Constant DEFAULT_ROLE already defined in /home/aapio500/public_html/loginSystem/includes/conn.inc.php on line 8
+[17-Mar-2016 04:04:26 UTC] PHP Notice:  Constant SECURE already defined in /home/aapio500/public_html/loginSystem/includes/conn.inc.php on line 9
+[17-Mar-2016 04:04:26 UTC] PHP Notice:  Constant HOST already defined in /home/aapio500/public_html/loginSystem/includes/conn.inc.php on line 3
+[17-Mar-2016 04:04:26 UTC] PHP Notice:  Constant USER already defined in /home/aapio500/public_html/loginSystem/includes/conn.inc.php on line 4
+[17-Mar-2016 04:04:26 UTC] PHP Notice:  Constant PASSWORD already defined in /home/aapio500/public_html/loginSystem/includes/conn.inc.php on line 5
+[17-Mar-2016 04:04:26 UTC] PHP Notice:  Constant DATABASE already defined in /home/aapio500/public_html/loginSystem/includes/conn.inc.php on line 6
+[17-Mar-2016 04:04:26 UTC] PHP Notice:  Constant CAN_REGISTER already defined in /home/aapio500/public_html/loginSystem/includes/conn.inc.php on line 7
+[17-Mar-2016 04:04:26 UTC] PHP Notice:  Constant DEFAULT_ROLE already defined in /home/aapio500/public_html/loginSystem/includes/conn.inc.php on line 8
+[17-Mar-2016 04:04:26 UTC] PHP Notice:  Constant SECURE already defined in /home/aapio500/public_html/loginSystem/includes/conn.inc.php on line 9
+[17-Mar-2016 04:04:48 UTC] PHP Notice:  Constant HOST already defined in /home/aapio500/public_html/loginSystem/includes/conn.inc.php on line 3
+[17-Mar-2016 04:04:48 UTC] PHP Notice:  Constant USER already defined in /home/aapio500/public_html/loginSystem/includes/conn.inc.php on line 4
+[17-Mar-2016 04:04:48 UTC] PHP Notice:  Constant PASSWORD already defined in /home/aapio500/public_html/loginSystem/includes/conn.inc.php on line 5
+[17-Mar-2016 04:04:48 UTC] PHP Notice:  Constant DATABASE already defined in /home/aapio500/public_html/loginSystem/includes/conn.inc.php on line 6
+[17-Mar-2016 04:04:48 UTC] PHP Notice:  Constant CAN_REGISTER already defined in /home/aapio500/public_html/loginSystem/includes/conn.inc.php on line 7
+[17-Mar-2016 04:04:48 UTC] PHP Notice:  Constant DEFAULT_ROLE already defined in /home/aapio500/public_html/loginSystem/includes/conn.inc.php on line 8
+[17-Mar-2016 04:04:48 UTC] PHP Notice:  Constant SECURE already defined in /home/aapio500/public_html/loginSystem/includes/conn.inc.php on line 9
+[17-Mar-2016 04:04:48 UTC] PHP Notice:  Constant HOST already defined in /home/aapio500/public_html/loginSystem/includes/conn.inc.php on line 3
+[17-Mar-2016 04:04:48 UTC] PHP Notice:  Constant USER already defined in /home/aapio500/public_html/loginSystem/includes/conn.inc.php on line 4
+[17-Mar-2016 04:04:48 UTC] PHP Notice:  Constant PASSWORD already defined in /home/aapio500/public_html/loginSystem/includes/conn.inc.php on line 5
+[17-Mar-2016 04:04:48 UTC] PHP Notice:  Constant DATABASE already defined in /home/aapio500/public_html/loginSystem/includes/conn.inc.php on line 6
+[17-Mar-2016 04:04:48 UTC] PHP Notice:  Constant CAN_REGISTER already defined in /home/aapio500/public_html/loginSystem/includes/conn.inc.php on line 7
+[17-Mar-2016 04:04:48 UTC] PHP Notice:  Constant DEFAULT_ROLE already defined in /home/aapio500/public_html/loginSystem/includes/conn.inc.php on line 8
+[17-Mar-2016 04:04:48 UTC] PHP Notice:  Constant SECURE already defined in /home/aapio500/public_html/loginSystem/includes/conn.inc.php on line 9
+[17-Mar-2016 04:05:14 UTC] PHP Notice:  Constant HOST already defined in /home/aapio500/public_html/loginSystem/includes/conn.inc.php on line 3
+[17-Mar-2016 04:05:14 UTC] PHP Notice:  Constant USER already defined in /home/aapio500/public_html/loginSystem/includes/conn.inc.php on line 4
+[17-Mar-2016 04:05:14 UTC] PHP Notice:  Constant PASSWORD already defined in /home/aapio500/public_html/loginSystem/includes/conn.inc.php on line 5
+[17-Mar-2016 04:05:14 UTC] PHP Notice:  Constant DATABASE already defined in /home/aapio500/public_html/loginSystem/includes/conn.inc.php on line 6
+[17-Mar-2016 04:05:14 UTC] PHP Notice:  Constant CAN_REGISTER already defined in /home/aapio500/public_html/loginSystem/includes/conn.inc.php on line 7
+[17-Mar-2016 04:05:14 UTC] PHP Notice:  Constant DEFAULT_ROLE already defined in /home/aapio500/public_html/loginSystem/includes/conn.inc.php on line 8
+[17-Mar-2016 04:05:14 UTC] PHP Notice:  Constant SECURE already defined in /home/aapio500/public_html/loginSystem/includes/conn.inc.php on line 9
+[17-Mar-2016 04:05:14 UTC] PHP Notice:  Constant HOST already defined in /home/aapio500/public_html/loginSystem/includes/conn.inc.php on line 3
+[17-Mar-2016 04:05:14 UTC] PHP Notice:  Constant USER already defined in /home/aapio500/public_html/loginSystem/includes/conn.inc.php on line 4
+[17-Mar-2016 04:05:14 UTC] PHP Notice:  Constant PASSWORD already defined in /home/aapio500/public_html/loginSystem/includes/conn.inc.php on line 5
+[17-Mar-2016 04:05:14 UTC] PHP Notice:  Constant DATABASE already defined in /home/aapio500/public_html/loginSystem/includes/conn.inc.php on line 6
+[17-Mar-2016 04:05:14 UTC] PHP Notice:  Constant CAN_REGISTER already defined in /home/aapio500/public_html/loginSystem/includes/conn.inc.php on line 7
+[17-Mar-2016 04:05:14 UTC] PHP Notice:  Constant DEFAULT_ROLE already defined in /home/aapio500/public_html/loginSystem/includes/conn.inc.php on line 8
+[17-Mar-2016 04:05:14 UTC] PHP Notice:  Constant SECURE already defined in /home/aapio500/public_html/loginSystem/includes/conn.inc.php on line 9
+[17-Mar-2016 04:05:45 UTC] PHP Notice:  Constant HOST already defined in /home/aapio500/public_html/loginSystem/includes/conn.inc.php on line 3
+[17-Mar-2016 04:05:45 UTC] PHP Notice:  Constant USER already defined in /home/aapio500/public_html/loginSystem/includes/conn.inc.php on line 4
+[17-Mar-2016 04:05:45 UTC] PHP Notice:  Constant PASSWORD already defined in /home/aapio500/public_html/loginSystem/includes/conn.inc.php on line 5
+[17-Mar-2016 04:05:45 UTC] PHP Notice:  Constant DATABASE already defined in /home/aapio500/public_html/loginSystem/includes/conn.inc.php on line 6
+[17-Mar-2016 04:05:45 UTC] PHP Notice:  Constant CAN_REGISTER already defined in /home/aapio500/public_html/loginSystem/includes/conn.inc.php on line 7
+[17-Mar-2016 04:05:45 UTC] PHP Notice:  Constant DEFAULT_ROLE already defined in /home/aapio500/public_html/loginSystem/includes/conn.inc.php on line 8
+[17-Mar-2016 04:05:45 UTC] PHP Notice:  Constant SECURE already defined in /home/aapio500/public_html/loginSystem/includes/conn.inc.php on line 9
+[17-Mar-2016 04:05:45 UTC] PHP Notice:  Constant HOST already defined in /home/aapio500/public_html/loginSystem/includes/conn.inc.php on line 3
+[17-Mar-2016 04:05:45 UTC] PHP Notice:  Constant USER already defined in /home/aapio500/public_html/loginSystem/includes/conn.inc.php on line 4
+[17-Mar-2016 04:05:45 UTC] PHP Notice:  Constant PASSWORD already defined in /home/aapio500/public_html/loginSystem/includes/conn.inc.php on line 5
+[17-Mar-2016 04:05:45 UTC] PHP Notice:  Constant DATABASE already defined in /home/aapio500/public_html/loginSystem/includes/conn.inc.php on line 6
+[17-Mar-2016 04:05:45 UTC] PHP Notice:  Constant CAN_REGISTER already defined in /home/aapio500/public_html/loginSystem/includes/conn.inc.php on line 7
+[17-Mar-2016 04:05:45 UTC] PHP Notice:  Constant DEFAULT_ROLE already defined in /home/aapio500/public_html/loginSystem/includes/conn.inc.php on line 8
+[17-Mar-2016 04:05:45 UTC] PHP Notice:  Constant SECURE already defined in /home/aapio500/public_html/loginSystem/includes/conn.inc.php on line 9
+[17-Mar-2016 04:06:01 UTC] PHP Notice:  Constant HOST already defined in /home/aapio500/public_html/loginSystem/includes/conn.inc.php on line 3
+[17-Mar-2016 04:06:01 UTC] PHP Notice:  Constant USER already defined in /home/aapio500/public_html/loginSystem/includes/conn.inc.php on line 4
+[17-Mar-2016 04:06:01 UTC] PHP Notice:  Constant PASSWORD already defined in /home/aapio500/public_html/loginSystem/includes/conn.inc.php on line 5
+[17-Mar-2016 04:06:01 UTC] PHP Notice:  Constant DATABASE already defined in /home/aapio500/public_html/loginSystem/includes/conn.inc.php on line 6
+[17-Mar-2016 04:06:01 UTC] PHP Notice:  Constant CAN_REGISTER already defined in /home/aapio500/public_html/loginSystem/includes/conn.inc.php on line 7
+[17-Mar-2016 04:06:01 UTC] PHP Notice:  Constant DEFAULT_ROLE already defined in /home/aapio500/public_html/loginSystem/includes/conn.inc.php on line 8
+[17-Mar-2016 04:06:01 UTC] PHP Notice:  Constant SECURE already defined in /home/aapio500/public_html/loginSystem/includes/conn.inc.php on line 9
+[17-Mar-2016 04:06:01 UTC] PHP Notice:  Constant HOST already defined in /home/aapio500/public_html/loginSystem/includes/conn.inc.php on line 3
+[17-Mar-2016 04:06:01 UTC] PHP Notice:  Constant USER already defined in /home/aapio500/public_html/loginSystem/includes/conn.inc.php on line 4
+[17-Mar-2016 04:06:01 UTC] PHP Notice:  Constant PASSWORD already defined in /home/aapio500/public_html/loginSystem/includes/conn.inc.php on line 5
+[17-Mar-2016 04:06:01 UTC] PHP Notice:  Constant DATABASE already defined in /home/aapio500/public_html/loginSystem/includes/conn.inc.php on line 6
+[17-Mar-2016 04:06:01 UTC] PHP Notice:  Constant CAN_REGISTER already defined in /home/aapio500/public_html/loginSystem/includes/conn.inc.php on line 7
+[17-Mar-2016 04:06:01 UTC] PHP Notice:  Constant DEFAULT_ROLE already defined in /home/aapio500/public_html/loginSystem/includes/conn.inc.php on line 8
+[17-Mar-2016 04:06:01 UTC] PHP Notice:  Constant SECURE already defined in /home/aapio500/public_html/loginSystem/includes/conn.inc.php on line 9
+[17-Mar-2016 04:06:08 UTC] PHP Notice:  Constant HOST already defined in /home/aapio500/public_html/loginSystem/includes/conn.inc.php on line 3
+[17-Mar-2016 04:06:08 UTC] PHP Notice:  Constant USER already defined in /home/aapio500/public_html/loginSystem/includes/conn.inc.php on line 4
+[17-Mar-2016 04:06:08 UTC] PHP Notice:  Constant PASSWORD already defined in /home/aapio500/public_html/loginSystem/includes/conn.inc.php on line 5
+[17-Mar-2016 04:06:08 UTC] PHP Notice:  Constant DATABASE already defined in /home/aapio500/public_html/loginSystem/includes/conn.inc.php on line 6
+[17-Mar-2016 04:06:08 UTC] PHP Notice:  Constant CAN_REGISTER already defined in /home/aapio500/public_html/loginSystem/includes/conn.inc.php on line 7
+[17-Mar-2016 04:06:08 UTC] PHP Notice:  Constant DEFAULT_ROLE already defined in /home/aapio500/public_html/loginSystem/includes/conn.inc.php on line 8
+[17-Mar-2016 04:06:08 UTC] PHP Notice:  Constant SECURE already defined in /home/aapio500/public_html/loginSystem/includes/conn.inc.php on line 9
+[17-Mar-2016 04:06:08 UTC] PHP Notice:  Constant HOST already defined in /home/aapio500/public_html/loginSystem/includes/conn.inc.php on line 3
+[17-Mar-2016 04:06:08 UTC] PHP Notice:  Constant USER already defined in /home/aapio500/public_html/loginSystem/includes/conn.inc.php on line 4
+[17-Mar-2016 04:06:08 UTC] PHP Notice:  Constant PASSWORD already defined in /home/aapio500/public_html/loginSystem/includes/conn.inc.php on line 5
+[17-Mar-2016 04:06:08 UTC] PHP Notice:  Constant DATABASE already defined in /home/aapio500/public_html/loginSystem/includes/conn.inc.php on line 6
+[17-Mar-2016 04:06:08 UTC] PHP Notice:  Constant CAN_REGISTER already defined in /home/aapio500/public_html/loginSystem/includes/conn.inc.php on line 7
+[17-Mar-2016 04:06:08 UTC] PHP Notice:  Constant DEFAULT_ROLE already defined in /home/aapio500/public_html/loginSystem/includes/conn.inc.php on line 8
+[17-Mar-2016 04:06:08 UTC] PHP Notice:  Constant SECURE already defined in /home/aapio500/public_html/loginSystem/includes/conn.inc.php on line 9
+[17-Mar-2016 04:06:48 UTC] PHP Notice:  Constant HOST already defined in /home/aapio500/public_html/loginSystem/includes/conn.inc.php on line 3
+[17-Mar-2016 04:06:48 UTC] PHP Notice:  Constant USER already defined in /home/aapio500/public_html/loginSystem/includes/conn.inc.php on line 4
+[17-Mar-2016 04:06:48 UTC] PHP Notice:  Constant PASSWORD already defined in /home/aapio500/public_html/loginSystem/includes/conn.inc.php on line 5
+[17-Mar-2016 04:06:48 UTC] PHP Notice:  Constant DATABASE already defined in /home/aapio500/public_html/loginSystem/includes/conn.inc.php on line 6
+[17-Mar-2016 04:06:48 UTC] PHP Notice:  Constant CAN_REGISTER already defined in /home/aapio500/public_html/loginSystem/includes/conn.inc.php on line 7
+[17-Mar-2016 04:06:48 UTC] PHP Notice:  Constant DEFAULT_ROLE already defined in /home/aapio500/public_html/loginSystem/includes/conn.inc.php on line 8
+[17-Mar-2016 04:06:48 UTC] PHP Notice:  Constant SECURE already defined in /home/aapio500/public_html/loginSystem/includes/conn.inc.php on line 9
+[17-Mar-2016 04:06:48 UTC] PHP Notice:  Constant HOST already defined in /home/aapio500/public_html/loginSystem/includes/conn.inc.php on line 3
+[17-Mar-2016 04:06:48 UTC] PHP Notice:  Constant USER already defined in /home/aapio500/public_html/loginSystem/includes/conn.inc.php on line 4
+[17-Mar-2016 04:06:48 UTC] PHP Notice:  Constant PASSWORD already defined in /home/aapio500/public_html/loginSystem/includes/conn.inc.php on line 5
+[17-Mar-2016 04:06:48 UTC] PHP Notice:  Constant DATABASE already defined in /home/aapio500/public_html/loginSystem/includes/conn.inc.php on line 6
+[17-Mar-2016 04:06:48 UTC] PHP Notice:  Constant CAN_REGISTER already defined in /home/aapio500/public_html/loginSystem/includes/conn.inc.php on line 7
+[17-Mar-2016 04:06:48 UTC] PHP Notice:  Constant DEFAULT_ROLE already defined in /home/aapio500/public_html/loginSystem/includes/conn.inc.php on line 8
+[17-Mar-2016 04:06:48 UTC] PHP Notice:  Constant SECURE already defined in /home/aapio500/public_html/loginSystem/includes/conn.inc.php on line 9
+[17-Mar-2016 04:07:06 UTC] PHP Notice:  Constant HOST already defined in /home/aapio500/public_html/loginSystem/includes/conn.inc.php on line 3
+[17-Mar-2016 04:07:06 UTC] PHP Notice:  Constant USER already defined in /home/aapio500/public_html/loginSystem/includes/conn.inc.php on line 4
+[17-Mar-2016 04:07:06 UTC] PHP Notice:  Constant PASSWORD already defined in /home/aapio500/public_html/loginSystem/includes/conn.inc.php on line 5
+[17-Mar-2016 04:07:06 UTC] PHP Notice:  Constant DATABASE already defined in /home/aapio500/public_html/loginSystem/includes/conn.inc.php on line 6
+[17-Mar-2016 04:07:06 UTC] PHP Notice:  Constant CAN_REGISTER already defined in /home/aapio500/public_html/loginSystem/includes/conn.inc.php on line 7
+[17-Mar-2016 04:07:06 UTC] PHP Notice:  Constant DEFAULT_ROLE already defined in /home/aapio500/public_html/loginSystem/includes/conn.inc.php on line 8
+[17-Mar-2016 04:07:06 UTC] PHP Notice:  Constant SECURE already defined in /home/aapio500/public_html/loginSystem/includes/conn.inc.php on line 9
+[17-Mar-2016 04:07:06 UTC] PHP Notice:  Constant HOST already defined in /home/aapio500/public_html/loginSystem/includes/conn.inc.php on line 3
+[17-Mar-2016 04:07:06 UTC] PHP Notice:  Constant USER already defined in /home/aapio500/public_html/loginSystem/includes/conn.inc.php on line 4
+[17-Mar-2016 04:07:06 UTC] PHP Notice:  Constant PASSWORD already defined in /home/aapio500/public_html/loginSystem/includes/conn.inc.php on line 5
+[17-Mar-2016 04:07:06 UTC] PHP Notice:  Constant DATABASE already defined in /home/aapio500/public_html/loginSystem/includes/conn.inc.php on line 6
+[17-Mar-2016 04:07:06 UTC] PHP Notice:  Constant CAN_REGISTER already defined in /home/aapio500/public_html/loginSystem/includes/conn.inc.php on line 7
+[17-Mar-2016 04:07:06 UTC] PHP Notice:  Constant DEFAULT_ROLE already defined in /home/aapio500/public_html/loginSystem/includes/conn.inc.php on line 8
+[17-Mar-2016 04:07:06 UTC] PHP Notice:  Constant SECURE already defined in /home/aapio500/public_html/loginSystem/includes/conn.inc.php on line 9
+[17-Mar-2016 04:07:39 UTC] PHP Notice:  Constant HOST already defined in /home/aapio500/public_html/loginSystem/includes/conn.inc.php on line 3
+[17-Mar-2016 04:07:39 UTC] PHP Notice:  Constant USER already defined in /home/aapio500/public_html/loginSystem/includes/conn.inc.php on line 4
+[17-Mar-2016 04:07:39 UTC] PHP Notice:  Constant PASSWORD already defined in /home/aapio500/public_html/loginSystem/includes/conn.inc.php on line 5
+[17-Mar-2016 04:07:39 UTC] PHP Notice:  Constant DATABASE already defined in /home/aapio500/public_html/loginSystem/includes/conn.inc.php on line 6
+[17-Mar-2016 04:07:39 UTC] PHP Notice:  Constant CAN_REGISTER already defined in /home/aapio500/public_html/loginSystem/includes/conn.inc.php on line 7
+[17-Mar-2016 04:07:39 UTC] PHP Notice:  Constant DEFAULT_ROLE already defined in /home/aapio500/public_html/loginSystem/includes/conn.inc.php on line 8
+[17-Mar-2016 04:07:39 UTC] PHP Notice:  Constant SECURE already defined in /home/aapio500/public_html/loginSystem/includes/conn.inc.php on line 9
+[17-Mar-2016 04:07:39 UTC] PHP Notice:  Constant HOST already defined in /home/aapio500/public_html/loginSystem/includes/conn.inc.php on line 3
+[17-Mar-2016 04:07:39 UTC] PHP Notice:  Constant USER already defined in /home/aapio500/public_html/loginSystem/includes/conn.inc.php on line 4
+[17-Mar-2016 04:07:39 UTC] PHP Notice:  Constant PASSWORD already defined in /home/aapio500/public_html/loginSystem/includes/conn.inc.php on line 5
+[17-Mar-2016 04:07:39 UTC] PHP Notice:  Constant DATABASE already defined in /home/aapio500/public_html/loginSystem/includes/conn.inc.php on line 6
+[17-Mar-2016 04:07:39 UTC] PHP Notice:  Constant CAN_REGISTER already defined in /home/aapio500/public_html/loginSystem/includes/conn.inc.php on line 7
+[17-Mar-2016 04:07:39 UTC] PHP Notice:  Constant DEFAULT_ROLE already defined in /home/aapio500/public_html/loginSystem/includes/conn.inc.php on line 8
+[17-Mar-2016 04:07:39 UTC] PHP Notice:  Constant SECURE already defined in /home/aapio500/public_html/loginSystem/includes/conn.inc.php on line 9
+[17-Mar-2016 04:07:56 UTC] PHP Notice:  Constant HOST already defined in /home/aapio500/public_html/loginSystem/includes/conn.inc.php on line 3
+[17-Mar-2016 04:07:56 UTC] PHP Notice:  Constant USER already defined in /home/aapio500/public_html/loginSystem/includes/conn.inc.php on line 4
+[17-Mar-2016 04:07:56 UTC] PHP Notice:  Constant PASSWORD already defined in /home/aapio500/public_html/loginSystem/includes/conn.inc.php on line 5
+[17-Mar-2016 04:07:56 UTC] PHP Notice:  Constant DATABASE already defined in /home/aapio500/public_html/loginSystem/includes/conn.inc.php on line 6
+[17-Mar-2016 04:07:56 UTC] PHP Notice:  Constant CAN_REGISTER already defined in /home/aapio500/public_html/loginSystem/includes/conn.inc.php on line 7
+[17-Mar-2016 04:07:56 UTC] PHP Notice:  Constant DEFAULT_ROLE already defined in /home/aapio500/public_html/loginSystem/includes/conn.inc.php on line 8
+[17-Mar-2016 04:07:56 UTC] PHP Notice:  Constant SECURE already defined in /home/aapio500/public_html/loginSystem/includes/conn.inc.php on line 9
+[17-Mar-2016 04:07:56 UTC] PHP Notice:  Constant HOST already defined in /home/aapio500/public_html/loginSystem/includes/conn.inc.php on line 3
+[17-Mar-2016 04:07:56 UTC] PHP Notice:  Constant USER already defined in /home/aapio500/public_html/loginSystem/includes/conn.inc.php on line 4
+[17-Mar-2016 04:07:56 UTC] PHP Notice:  Constant PASSWORD already defined in /home/aapio500/public_html/loginSystem/includes/conn.inc.php on line 5
+[17-Mar-2016 04:07:56 UTC] PHP Notice:  Constant DATABASE already defined in /home/aapio500/public_html/loginSystem/includes/conn.inc.php on line 6
+[17-Mar-2016 04:07:56 UTC] PHP Notice:  Constant CAN_REGISTER already defined in /home/aapio500/public_html/loginSystem/includes/conn.inc.php on line 7
+[17-Mar-2016 04:07:56 UTC] PHP Notice:  Constant DEFAULT_ROLE already defined in /home/aapio500/public_html/loginSystem/includes/conn.inc.php on line 8
+[17-Mar-2016 04:07:56 UTC] PHP Notice:  Constant SECURE already defined in /home/aapio500/public_html/loginSystem/includes/conn.inc.php on line 9
+[17-Mar-2016 04:08:02 UTC] PHP Notice:  Constant HOST already defined in /home/aapio500/public_html/loginSystem/includes/conn.inc.php on line 3
+[17-Mar-2016 04:08:02 UTC] PHP Notice:  Constant USER already defined in /home/aapio500/public_html/loginSystem/includes/conn.inc.php on line 4
+[17-Mar-2016 04:08:02 UTC] PHP Notice:  Constant PASSWORD already defined in /home/aapio500/public_html/loginSystem/includes/conn.inc.php on line 5
+[17-Mar-2016 04:08:02 UTC] PHP Notice:  Constant DATABASE already defined in /home/aapio500/public_html/loginSystem/includes/conn.inc.php on line 6
+[17-Mar-2016 04:08:02 UTC] PHP Notice:  Constant CAN_REGISTER already defined in /home/aapio500/public_html/loginSystem/includes/conn.inc.php on line 7
+[17-Mar-2016 04:08:02 UTC] PHP Notice:  Constant DEFAULT_ROLE already defined in /home/aapio500/public_html/loginSystem/includes/conn.inc.php on line 8
+[17-Mar-2016 04:08:02 UTC] PHP Notice:  Constant SECURE already defined in /home/aapio500/public_html/loginSystem/includes/conn.inc.php on line 9
+[17-Mar-2016 04:08:02 UTC] PHP Notice:  Constant HOST already defined in /home/aapio500/public_html/loginSystem/includes/conn.inc.php on line 3
+[17-Mar-2016 04:08:02 UTC] PHP Notice:  Constant USER already defined in /home/aapio500/public_html/loginSystem/includes/conn.inc.php on line 4
+[17-Mar-2016 04:08:02 UTC] PHP Notice:  Constant PASSWORD already defined in /home/aapio500/public_html/loginSystem/includes/conn.inc.php on line 5
+[17-Mar-2016 04:08:02 UTC] PHP Notice:  Constant DATABASE already defined in /home/aapio500/public_html/loginSystem/includes/conn.inc.php on line 6
+[17-Mar-2016 04:08:02 UTC] PHP Notice:  Constant CAN_REGISTER already defined in /home/aapio500/public_html/loginSystem/includes/conn.inc.php on line 7
+[17-Mar-2016 04:08:02 UTC] PHP Notice:  Constant DEFAULT_ROLE already defined in /home/aapio500/public_html/loginSystem/includes/conn.inc.php on line 8
+[17-Mar-2016 04:08:02 UTC] PHP Notice:  Constant SECURE already defined in /home/aapio500/public_html/loginSystem/includes/conn.inc.php on line 9
+[17-Mar-2016 04:08:15 UTC] PHP Notice:  Constant HOST already defined in /home/aapio500/public_html/loginSystem/includes/conn.inc.php on line 3
+[17-Mar-2016 04:08:15 UTC] PHP Notice:  Constant USER already defined in /home/aapio500/public_html/loginSystem/includes/conn.inc.php on line 4
+[17-Mar-2016 04:08:15 UTC] PHP Notice:  Constant PASSWORD already defined in /home/aapio500/public_html/loginSystem/includes/conn.inc.php on line 5
+[17-Mar-2016 04:08:15 UTC] PHP Notice:  Constant DATABASE already defined in /home/aapio500/public_html/loginSystem/includes/conn.inc.php on line 6
+[17-Mar-2016 04:08:15 UTC] PHP Notice:  Constant CAN_REGISTER already defined in /home/aapio500/public_html/loginSystem/includes/conn.inc.php on line 7
+[17-Mar-2016 04:08:15 UTC] PHP Notice:  Constant DEFAULT_ROLE already defined in /home/aapio500/public_html/loginSystem/includes/conn.inc.php on line 8
+[17-Mar-2016 04:08:15 UTC] PHP Notice:  Constant SECURE already defined in /home/aapio500/public_html/loginSystem/includes/conn.inc.php on line 9
+[17-Mar-2016 04:08:15 UTC] PHP Notice:  Constant HOST already defined in /home/aapio500/public_html/loginSystem/includes/conn.inc.php on line 3
+[17-Mar-2016 04:08:15 UTC] PHP Notice:  Constant USER already defined in /home/aapio500/public_html/loginSystem/includes/conn.inc.php on line 4
+[17-Mar-2016 04:08:15 UTC] PHP Notice:  Constant PASSWORD already defined in /home/aapio500/public_html/loginSystem/includes/conn.inc.php on line 5
+[17-Mar-2016 04:08:15 UTC] PHP Notice:  Constant DATABASE already defined in /home/aapio500/public_html/loginSystem/includes/conn.inc.php on line 6
+[17-Mar-2016 04:08:15 UTC] PHP Notice:  Constant CAN_REGISTER already defined in /home/aapio500/public_html/loginSystem/includes/conn.inc.php on line 7
+[17-Mar-2016 04:08:15 UTC] PHP Notice:  Constant DEFAULT_ROLE already defined in /home/aapio500/public_html/loginSystem/includes/conn.inc.php on line 8
+[17-Mar-2016 04:08:15 UTC] PHP Notice:  Constant SECURE already defined in /home/aapio500/public_html/loginSystem/includes/conn.inc.php on line 9
+[17-Mar-2016 04:08:24 UTC] PHP Notice:  Constant HOST already defined in /home/aapio500/public_html/loginSystem/includes/conn.inc.php on line 3
+[17-Mar-2016 04:08:24 UTC] PHP Notice:  Constant USER already defined in /home/aapio500/public_html/loginSystem/includes/conn.inc.php on line 4
+[17-Mar-2016 04:08:24 UTC] PHP Notice:  Constant PASSWORD already defined in /home/aapio500/public_html/loginSystem/includes/conn.inc.php on line 5
+[17-Mar-2016 04:08:24 UTC] PHP Notice:  Constant DATABASE already defined in /home/aapio500/public_html/loginSystem/includes/conn.inc.php on line 6
+[17-Mar-2016 04:08:24 UTC] PHP Notice:  Constant CAN_REGISTER already defined in /home/aapio500/public_html/loginSystem/includes/conn.inc.php on line 7
+[17-Mar-2016 04:08:24 UTC] PHP Notice:  Constant DEFAULT_ROLE already defined in /home/aapio500/public_html/loginSystem/includes/conn.inc.php on line 8
+[17-Mar-2016 04:08:24 UTC] PHP Notice:  Constant SECURE already defined in /home/aapio500/public_html/loginSystem/includes/conn.inc.php on line 9
+[17-Mar-2016 04:08:24 UTC] PHP Notice:  Constant HOST already defined in /home/aapio500/public_html/loginSystem/includes/conn.inc.php on line 3
+[17-Mar-2016 04:08:24 UTC] PHP Notice:  Constant USER already defined in /home/aapio500/public_html/loginSystem/includes/conn.inc.php on line 4
+[17-Mar-2016 04:08:24 UTC] PHP Notice:  Constant PASSWORD already defined in /home/aapio500/public_html/loginSystem/includes/conn.inc.php on line 5
+[17-Mar-2016 04:08:24 UTC] PHP Notice:  Constant DATABASE already defined in /home/aapio500/public_html/loginSystem/includes/conn.inc.php on line 6
+[17-Mar-2016 04:08:24 UTC] PHP Notice:  Constant CAN_REGISTER already defined in /home/aapio500/public_html/loginSystem/includes/conn.inc.php on line 7
+[17-Mar-2016 04:08:24 UTC] PHP Notice:  Constant DEFAULT_ROLE already defined in /home/aapio500/public_html/loginSystem/includes/conn.inc.php on line 8
+[17-Mar-2016 04:08:24 UTC] PHP Notice:  Constant SECURE already defined in /home/aapio500/public_html/loginSystem/includes/conn.inc.php on line 9
+[17-Mar-2016 04:08:30 UTC] PHP Notice:  Constant HOST already defined in /home/aapio500/public_html/loginSystem/includes/conn.inc.php on line 3
+[17-Mar-2016 04:08:30 UTC] PHP Notice:  Constant USER already defined in /home/aapio500/public_html/loginSystem/includes/conn.inc.php on line 4
+[17-Mar-2016 04:08:30 UTC] PHP Notice:  Constant PASSWORD already defined in /home/aapio500/public_html/loginSystem/includes/conn.inc.php on line 5
+[17-Mar-2016 04:08:30 UTC] PHP Notice:  Constant DATABASE already defined in /home/aapio500/public_html/loginSystem/includes/conn.inc.php on line 6
+[17-Mar-2016 04:08:30 UTC] PHP Notice:  Constant CAN_REGISTER already defined in /home/aapio500/public_html/loginSystem/includes/conn.inc.php on line 7
+[17-Mar-2016 04:08:30 UTC] PHP Notice:  Constant DEFAULT_ROLE already defined in /home/aapio500/public_html/loginSystem/includes/conn.inc.php on line 8
+[17-Mar-2016 04:08:30 UTC] PHP Notice:  Constant SECURE already defined in /home/aapio500/public_html/loginSystem/includes/conn.inc.php on line 9
+[17-Mar-2016 04:08:30 UTC] PHP Notice:  Constant HOST already defined in /home/aapio500/public_html/loginSystem/includes/conn.inc.php on line 3
+[17-Mar-2016 04:08:30 UTC] PHP Notice:  Constant USER already defined in /home/aapio500/public_html/loginSystem/includes/conn.inc.php on line 4
+[17-Mar-2016 04:08:30 UTC] PHP Notice:  Constant PASSWORD already defined in /home/aapio500/public_html/loginSystem/includes/conn.inc.php on line 5
+[17-Mar-2016 04:08:30 UTC] PHP Notice:  Constant DATABASE already defined in /home/aapio500/public_html/loginSystem/includes/conn.inc.php on line 6
+[17-Mar-2016 04:08:30 UTC] PHP Notice:  Constant CAN_REGISTER already defined in /home/aapio500/public_html/loginSystem/includes/conn.inc.php on line 7
+[17-Mar-2016 04:08:30 UTC] PHP Notice:  Constant DEFAULT_ROLE already defined in /home/aapio500/public_html/loginSystem/includes/conn.inc.php on line 8
+[17-Mar-2016 04:08:30 UTC] PHP Notice:  Constant SECURE already defined in /home/aapio500/public_html/loginSystem/includes/conn.inc.php on line 9
+[17-Mar-2016 04:09:26 UTC] PHP Notice:  Constant HOST already defined in /home/aapio500/public_html/loginSystem/includes/conn.inc.php on line 3
+[17-Mar-2016 04:09:26 UTC] PHP Notice:  Constant USER already defined in /home/aapio500/public_html/loginSystem/includes/conn.inc.php on line 4
+[17-Mar-2016 04:09:26 UTC] PHP Notice:  Constant PASSWORD already defined in /home/aapio500/public_html/loginSystem/includes/conn.inc.php on line 5
+[17-Mar-2016 04:09:26 UTC] PHP Notice:  Constant DATABASE already defined in /home/aapio500/public_html/loginSystem/includes/conn.inc.php on line 6
+[17-Mar-2016 04:09:26 UTC] PHP Notice:  Constant CAN_REGISTER already defined in /home/aapio500/public_html/loginSystem/includes/conn.inc.php on line 7
+[17-Mar-2016 04:09:26 UTC] PHP Notice:  Constant DEFAULT_ROLE already defined in /home/aapio500/public_html/loginSystem/includes/conn.inc.php on line 8
+[17-Mar-2016 04:09:26 UTC] PHP Notice:  Constant SECURE already defined in /home/aapio500/public_html/loginSystem/includes/conn.inc.php on line 9
+[17-Mar-2016 04:09:26 UTC] PHP Notice:  Constant HOST already defined in /home/aapio500/public_html/loginSystem/includes/conn.inc.php on line 3
+[17-Mar-2016 04:09:26 UTC] PHP Notice:  Constant USER already defined in /home/aapio500/public_html/loginSystem/includes/conn.inc.php on line 4
+[17-Mar-2016 04:09:26 UTC] PHP Notice:  Constant PASSWORD already defined in /home/aapio500/public_html/loginSystem/includes/conn.inc.php on line 5
+[17-Mar-2016 04:09:26 UTC] PHP Notice:  Constant DATABASE already defined in /home/aapio500/public_html/loginSystem/includes/conn.inc.php on line 6
+[17-Mar-2016 04:09:26 UTC] PHP Notice:  Constant CAN_REGISTER already defined in /home/aapio500/public_html/loginSystem/includes/conn.inc.php on line 7
+[17-Mar-2016 04:09:26 UTC] PHP Notice:  Constant DEFAULT_ROLE already defined in /home/aapio500/public_html/loginSystem/includes/conn.inc.php on line 8
+[17-Mar-2016 04:09:26 UTC] PHP Notice:  Constant SECURE already defined in /home/aapio500/public_html/loginSystem/includes/conn.inc.php on line 9
+[17-Mar-2016 04:10:18 UTC] PHP Notice:  Constant HOST already defined in /home/aapio500/public_html/loginSystem/includes/conn.inc.php on line 3
+[17-Mar-2016 04:10:18 UTC] PHP Notice:  Constant USER already defined in /home/aapio500/public_html/loginSystem/includes/conn.inc.php on line 4
+[17-Mar-2016 04:10:18 UTC] PHP Notice:  Constant PASSWORD already defined in /home/aapio500/public_html/loginSystem/includes/conn.inc.php on line 5
+[17-Mar-2016 04:10:18 UTC] PHP Notice:  Constant DATABASE already defined in /home/aapio500/public_html/loginSystem/includes/conn.inc.php on line 6
+[17-Mar-2016 04:10:18 UTC] PHP Notice:  Constant CAN_REGISTER already defined in /home/aapio500/public_html/loginSystem/includes/conn.inc.php on line 7
+[17-Mar-2016 04:10:18 UTC] PHP Notice:  Constant DEFAULT_ROLE already defined in /home/aapio500/public_html/loginSystem/includes/conn.inc.php on line 8
+[17-Mar-2016 04:10:18 UTC] PHP Notice:  Constant SECURE already defined in /home/aapio500/public_html/loginSystem/includes/conn.inc.php on line 9
+[17-Mar-2016 04:10:18 UTC] PHP Notice:  Constant HOST already defined in /home/aapio500/public_html/loginSystem/includes/conn.inc.php on line 3
+[17-Mar-2016 04:10:18 UTC] PHP Notice:  Constant USER already defined in /home/aapio500/public_html/loginSystem/includes/conn.inc.php on line 4
+[17-Mar-2016 04:10:18 UTC] PHP Notice:  Constant PASSWORD already defined in /home/aapio500/public_html/loginSystem/includes/conn.inc.php on line 5
+[17-Mar-2016 04:10:18 UTC] PHP Notice:  Constant DATABASE already defined in /home/aapio500/public_html/loginSystem/includes/conn.inc.php on line 6
+[17-Mar-2016 04:10:18 UTC] PHP Notice:  Constant CAN_REGISTER already defined in /home/aapio500/public_html/loginSystem/includes/conn.inc.php on line 7
+[17-Mar-2016 04:10:18 UTC] PHP Notice:  Constant DEFAULT_ROLE already defined in /home/aapio500/public_html/loginSystem/includes/conn.inc.php on line 8
+[17-Mar-2016 04:10:18 UTC] PHP Notice:  Constant SECURE already defined in /home/aapio500/public_html/loginSystem/includes/conn.inc.php on line 9
+[17-Mar-2016 04:10:26 UTC] PHP Notice:  Constant HOST already defined in /home/aapio500/public_html/loginSystem/includes/conn.inc.php on line 3
+[17-Mar-2016 04:10:26 UTC] PHP Notice:  Constant USER already defined in /home/aapio500/public_html/loginSystem/includes/conn.inc.php on line 4
+[17-Mar-2016 04:10:26 UTC] PHP Notice:  Constant PASSWORD already defined in /home/aapio500/public_html/loginSystem/includes/conn.inc.php on line 5
+[17-Mar-2016 04:10:26 UTC] PHP Notice:  Constant DATABASE already defined in /home/aapio500/public_html/loginSystem/includes/conn.inc.php on line 6
+[17-Mar-2016 04:10:26 UTC] PHP Notice:  Constant CAN_REGISTER already defined in /home/aapio500/public_html/loginSystem/includes/conn.inc.php on line 7
+[17-Mar-2016 04:10:26 UTC] PHP Notice:  Constant DEFAULT_ROLE already defined in /home/aapio500/public_html/loginSystem/includes/conn.inc.php on line 8
+[17-Mar-2016 04:10:26 UTC] PHP Notice:  Constant SECURE already defined in /home/aapio500/public_html/loginSystem/includes/conn.inc.php on line 9
+[17-Mar-2016 04:10:26 UTC] PHP Notice:  Constant HOST already defined in /home/aapio500/public_html/loginSystem/includes/conn.inc.php on line 3
+[17-Mar-2016 04:10:26 UTC] PHP Notice:  Constant USER already defined in /home/aapio500/public_html/loginSystem/includes/conn.inc.php on line 4
+[17-Mar-2016 04:10:26 UTC] PHP Notice:  Constant PASSWORD already defined in /home/aapio500/public_html/loginSystem/includes/conn.inc.php on line 5
+[17-Mar-2016 04:10:26 UTC] PHP Notice:  Constant DATABASE already defined in /home/aapio500/public_html/loginSystem/includes/conn.inc.php on line 6
+[17-Mar-2016 04:10:26 UTC] PHP Notice:  Constant CAN_REGISTER already defined in /home/aapio500/public_html/loginSystem/includes/conn.inc.php on line 7
+[17-Mar-2016 04:10:26 UTC] PHP Notice:  Constant DEFAULT_ROLE already defined in /home/aapio500/public_html/loginSystem/includes/conn.inc.php on line 8
+[17-Mar-2016 04:10:26 UTC] PHP Notice:  Constant SECURE already defined in /home/aapio500/public_html/loginSystem/includes/conn.inc.php on line 9
+[17-Mar-2016 04:10:29 UTC] PHP Notice:  Constant HOST already defined in /home/aapio500/public_html/loginSystem/includes/conn.inc.php on line 3
+[17-Mar-2016 04:10:29 UTC] PHP Notice:  Constant USER already defined in /home/aapio500/public_html/loginSystem/includes/conn.inc.php on line 4
+[17-Mar-2016 04:10:29 UTC] PHP Notice:  Constant PASSWORD already defined in /home/aapio500/public_html/loginSystem/includes/conn.inc.php on line 5
+[17-Mar-2016 04:10:29 UTC] PHP Notice:  Constant DATABASE already defined in /home/aapio500/public_html/loginSystem/includes/conn.inc.php on line 6
+[17-Mar-2016 04:10:29 UTC] PHP Notice:  Constant CAN_REGISTER already defined in /home/aapio500/public_html/loginSystem/includes/conn.inc.php on line 7
+[17-Mar-2016 04:10:29 UTC] PHP Notice:  Constant DEFAULT_ROLE already defined in /home/aapio500/public_html/loginSystem/includes/conn.inc.php on line 8
+[17-Mar-2016 04:10:29 UTC] PHP Notice:  Constant SECURE already defined in /home/aapio500/public_html/loginSystem/includes/conn.inc.php on line 9
+[17-Mar-2016 04:10:29 UTC] PHP Notice:  Constant HOST already defined in /home/aapio500/public_html/loginSystem/includes/conn.inc.php on line 3
+[17-Mar-2016 04:10:29 UTC] PHP Notice:  Constant USER already defined in /home/aapio500/public_html/loginSystem/includes/conn.inc.php on line 4
+[17-Mar-2016 04:10:29 UTC] PHP Notice:  Constant PASSWORD already defined in /home/aapio500/public_html/loginSystem/includes/conn.inc.php on line 5
+[17-Mar-2016 04:10:29 UTC] PHP Notice:  Constant DATABASE already defined in /home/aapio500/public_html/loginSystem/includes/conn.inc.php on line 6
+[17-Mar-2016 04:10:29 UTC] PHP Notice:  Constant CAN_REGISTER already defined in /home/aapio500/public_html/loginSystem/includes/conn.inc.php on line 7
+[17-Mar-2016 04:10:29 UTC] PHP Notice:  Constant DEFAULT_ROLE already defined in /home/aapio500/public_html/loginSystem/includes/conn.inc.php on line 8
+[17-Mar-2016 04:10:29 UTC] PHP Notice:  Constant SECURE already defined in /home/aapio500/public_html/loginSystem/includes/conn.inc.php on line 9
+[17-Mar-2016 04:11:31 UTC] PHP Notice:  Constant HOST already defined in /home/aapio500/public_html/loginSystem/includes/conn.inc.php on line 3
+[17-Mar-2016 04:11:31 UTC] PHP Notice:  Constant USER already defined in /home/aapio500/public_html/loginSystem/includes/conn.inc.php on line 4
+[17-Mar-2016 04:11:31 UTC] PHP Notice:  Constant PASSWORD already defined in /home/aapio500/public_html/loginSystem/includes/conn.inc.php on line 5
+[17-Mar-2016 04:11:31 UTC] PHP Notice:  Constant DATABASE already defined in /home/aapio500/public_html/loginSystem/includes/conn.inc.php on line 6
+[17-Mar-2016 04:11:31 UTC] PHP Notice:  Constant CAN_REGISTER already defined in /home/aapio500/public_html/loginSystem/includes/conn.inc.php on line 7
+[17-Mar-2016 04:11:31 UTC] PHP Notice:  Constant DEFAULT_ROLE already defined in /home/aapio500/public_html/loginSystem/includes/conn.inc.php on line 8
+[17-Mar-2016 04:11:31 UTC] PHP Notice:  Constant SECURE already defined in /home/aapio500/public_html/loginSystem/includes/conn.inc.php on line 9
+[17-Mar-2016 04:11:31 UTC] PHP Notice:  Constant HOST already defined in /home/aapio500/public_html/loginSystem/includes/conn.inc.php on line 3
+[17-Mar-2016 04:11:31 UTC] PHP Notice:  Constant USER already defined in /home/aapio500/public_html/loginSystem/includes/conn.inc.php on line 4
+[17-Mar-2016 04:11:31 UTC] PHP Notice:  Constant PASSWORD already defined in /home/aapio500/public_html/loginSystem/includes/conn.inc.php on line 5
+[17-Mar-2016 04:11:31 UTC] PHP Notice:  Constant DATABASE already defined in /home/aapio500/public_html/loginSystem/includes/conn.inc.php on line 6
+[17-Mar-2016 04:11:31 UTC] PHP Notice:  Constant CAN_REGISTER already defined in /home/aapio500/public_html/loginSystem/includes/conn.inc.php on line 7
+[17-Mar-2016 04:11:31 UTC] PHP Notice:  Constant DEFAULT_ROLE already defined in /home/aapio500/public_html/loginSystem/includes/conn.inc.php on line 8
+[17-Mar-2016 04:11:31 UTC] PHP Notice:  Constant SECURE already defined in /home/aapio500/public_html/loginSystem/includes/conn.inc.php on line 9
+[17-Mar-2016 04:11:49 UTC] PHP Notice:  Constant HOST already defined in /home/aapio500/public_html/loginSystem/includes/conn.inc.php on line 3
+[17-Mar-2016 04:11:49 UTC] PHP Notice:  Constant USER already defined in /home/aapio500/public_html/loginSystem/includes/conn.inc.php on line 4
+[17-Mar-2016 04:11:49 UTC] PHP Notice:  Constant PASSWORD already defined in /home/aapio500/public_html/loginSystem/includes/conn.inc.php on line 5
+[17-Mar-2016 04:11:49 UTC] PHP Notice:  Constant DATABASE already defined in /home/aapio500/public_html/loginSystem/includes/conn.inc.php on line 6
+[17-Mar-2016 04:11:49 UTC] PHP Notice:  Constant CAN_REGISTER already defined in /home/aapio500/public_html/loginSystem/includes/conn.inc.php on line 7
+[17-Mar-2016 04:11:49 UTC] PHP Notice:  Constant DEFAULT_ROLE already defined in /home/aapio500/public_html/loginSystem/includes/conn.inc.php on line 8
+[17-Mar-2016 04:11:49 UTC] PHP Notice:  Constant SECURE already defined in /home/aapio500/public_html/loginSystem/includes/conn.inc.php on line 9
+[17-Mar-2016 04:11:49 UTC] PHP Notice:  Constant HOST already defined in /home/aapio500/public_html/loginSystem/includes/conn.inc.php on line 3
+[17-Mar-2016 04:11:49 UTC] PHP Notice:  Constant USER already defined in /home/aapio500/public_html/loginSystem/includes/conn.inc.php on line 4
+[17-Mar-2016 04:11:49 UTC] PHP Notice:  Constant PASSWORD already defined in /home/aapio500/public_html/loginSystem/includes/conn.inc.php on line 5
+[17-Mar-2016 04:11:49 UTC] PHP Notice:  Constant DATABASE already defined in /home/aapio500/public_html/loginSystem/includes/conn.inc.php on line 6
+[17-Mar-2016 04:11:49 UTC] PHP Notice:  Constant CAN_REGISTER already defined in /home/aapio500/public_html/loginSystem/includes/conn.inc.php on line 7
+[17-Mar-2016 04:11:49 UTC] PHP Notice:  Constant DEFAULT_ROLE already defined in /home/aapio500/public_html/loginSystem/includes/conn.inc.php on line 8
+[17-Mar-2016 04:11:49 UTC] PHP Notice:  Constant SECURE already defined in /home/aapio500/public_html/loginSystem/includes/conn.inc.php on line 9
+[17-Mar-2016 04:12:44 UTC] PHP Notice:  Constant HOST already defined in /home/aapio500/public_html/loginSystem/includes/conn.inc.php on line 3
+[17-Mar-2016 04:12:44 UTC] PHP Notice:  Constant USER already defined in /home/aapio500/public_html/loginSystem/includes/conn.inc.php on line 4
+[17-Mar-2016 04:12:44 UTC] PHP Notice:  Constant PASSWORD already defined in /home/aapio500/public_html/loginSystem/includes/conn.inc.php on line 5
+[17-Mar-2016 04:12:44 UTC] PHP Notice:  Constant DATABASE already defined in /home/aapio500/public_html/loginSystem/includes/conn.inc.php on line 6
+[17-Mar-2016 04:12:44 UTC] PHP Notice:  Constant CAN_REGISTER already defined in /home/aapio500/public_html/loginSystem/includes/conn.inc.php on line 7
+[17-Mar-2016 04:12:44 UTC] PHP Notice:  Constant DEFAULT_ROLE already defined in /home/aapio500/public_html/loginSystem/includes/conn.inc.php on line 8
+[17-Mar-2016 04:12:44 UTC] PHP Notice:  Constant SECURE already defined in /home/aapio500/public_html/loginSystem/includes/conn.inc.php on line 9
+[17-Mar-2016 04:12:44 UTC] PHP Notice:  Constant HOST already defined in /home/aapio500/public_html/loginSystem/includes/conn.inc.php on line 3
+[17-Mar-2016 04:12:44 UTC] PHP Notice:  Constant USER already defined in /home/aapio500/public_html/loginSystem/includes/conn.inc.php on line 4
+[17-Mar-2016 04:12:44 UTC] PHP Notice:  Constant PASSWORD already defined in /home/aapio500/public_html/loginSystem/includes/conn.inc.php on line 5
+[17-Mar-2016 04:12:44 UTC] PHP Notice:  Constant DATABASE already defined in /home/aapio500/public_html/loginSystem/includes/conn.inc.php on line 6
+[17-Mar-2016 04:12:44 UTC] PHP Notice:  Constant CAN_REGISTER already defined in /home/aapio500/public_html/loginSystem/includes/conn.inc.php on line 7
+[17-Mar-2016 04:12:44 UTC] PHP Notice:  Constant DEFAULT_ROLE already defined in /home/aapio500/public_html/loginSystem/includes/conn.inc.php on line 8
+[17-Mar-2016 04:12:44 UTC] PHP Notice:  Constant SECURE already defined in /home/aapio500/public_html/loginSystem/includes/conn.inc.php on line 9
+[17-Mar-2016 04:12:54 UTC] PHP Notice:  Constant HOST already defined in /home/aapio500/public_html/loginSystem/includes/conn.inc.php on line 3
+[17-Mar-2016 04:12:54 UTC] PHP Notice:  Constant USER already defined in /home/aapio500/public_html/loginSystem/includes/conn.inc.php on line 4
+[17-Mar-2016 04:12:54 UTC] PHP Notice:  Constant PASSWORD already defined in /home/aapio500/public_html/loginSystem/includes/conn.inc.php on line 5
+[17-Mar-2016 04:12:54 UTC] PHP Notice:  Constant DATABASE already defined in /home/aapio500/public_html/loginSystem/includes/conn.inc.php on line 6
+[17-Mar-2016 04:12:54 UTC] PHP Notice:  Constant CAN_REGISTER already defined in /home/aapio500/public_html/loginSystem/includes/conn.inc.php on line 7
+[17-Mar-2016 04:12:54 UTC] PHP Notice:  Constant DEFAULT_ROLE already defined in /home/aapio500/public_html/loginSystem/includes/conn.inc.php on line 8
+[17-Mar-2016 04:12:54 UTC] PHP Notice:  Constant SECURE already defined in /home/aapio500/public_html/loginSystem/includes/conn.inc.php on line 9
+[17-Mar-2016 04:12:55 UTC] PHP Notice:  Constant HOST already defined in /home/aapio500/public_html/loginSystem/includes/conn.inc.php on line 3
+[17-Mar-2016 04:12:55 UTC] PHP Notice:  Constant USER already defined in /home/aapio500/public_html/loginSystem/includes/conn.inc.php on line 4
+[17-Mar-2016 04:12:55 UTC] PHP Notice:  Constant PASSWORD already defined in /home/aapio500/public_html/loginSystem/includes/conn.inc.php on line 5
+[17-Mar-2016 04:12:55 UTC] PHP Notice:  Constant DATABASE already defined in /home/aapio500/public_html/loginSystem/includes/conn.inc.php on line 6
+[17-Mar-2016 04:12:55 UTC] PHP Notice:  Constant CAN_REGISTER already defined in /home/aapio500/public_html/loginSystem/includes/conn.inc.php on line 7
+[17-Mar-2016 04:12:55 UTC] PHP Notice:  Constant DEFAULT_ROLE already defined in /home/aapio500/public_html/loginSystem/includes/conn.inc.php on line 8
+[17-Mar-2016 04:12:55 UTC] PHP Notice:  Constant SECURE already defined in /home/aapio500/public_html/loginSystem/includes/conn.inc.php on line 9
+[17-Mar-2016 04:13:04 UTC] PHP Notice:  Constant HOST already defined in /home/aapio500/public_html/loginSystem/includes/conn.inc.php on line 3
+[17-Mar-2016 04:13:04 UTC] PHP Notice:  Constant USER already defined in /home/aapio500/public_html/loginSystem/includes/conn.inc.php on line 4
+[17-Mar-2016 04:13:04 UTC] PHP Notice:  Constant PASSWORD already defined in /home/aapio500/public_html/loginSystem/includes/conn.inc.php on line 5
+[17-Mar-2016 04:13:04 UTC] PHP Notice:  Constant DATABASE already defined in /home/aapio500/public_html/loginSystem/includes/conn.inc.php on line 6
+[17-Mar-2016 04:13:04 UTC] PHP Notice:  Constant CAN_REGISTER already defined in /home/aapio500/public_html/loginSystem/includes/conn.inc.php on line 7
+[17-Mar-2016 04:13:04 UTC] PHP Notice:  Constant DEFAULT_ROLE already defined in /home/aapio500/public_html/loginSystem/includes/conn.inc.php on line 8
+[17-Mar-2016 04:13:04 UTC] PHP Notice:  Constant SECURE already defined in /home/aapio500/public_html/loginSystem/includes/conn.inc.php on line 9
+[17-Mar-2016 04:13:04 UTC] PHP Notice:  Constant HOST already defined in /home/aapio500/public_html/loginSystem/includes/conn.inc.php on line 3
+[17-Mar-2016 04:13:04 UTC] PHP Notice:  Constant USER already defined in /home/aapio500/public_html/loginSystem/includes/conn.inc.php on line 4
+[17-Mar-2016 04:13:04 UTC] PHP Notice:  Constant PASSWORD already defined in /home/aapio500/public_html/loginSystem/includes/conn.inc.php on line 5
+[17-Mar-2016 04:13:04 UTC] PHP Notice:  Constant DATABASE already defined in /home/aapio500/public_html/loginSystem/includes/conn.inc.php on line 6
+[17-Mar-2016 04:13:04 UTC] PHP Notice:  Constant CAN_REGISTER already defined in /home/aapio500/public_html/loginSystem/includes/conn.inc.php on line 7
+[17-Mar-2016 04:13:04 UTC] PHP Notice:  Constant DEFAULT_ROLE already defined in /home/aapio500/public_html/loginSystem/includes/conn.inc.php on line 8
+[17-Mar-2016 04:13:04 UTC] PHP Notice:  Constant SECURE already defined in /home/aapio500/public_html/loginSystem/includes/conn.inc.php on line 9
+[17-Mar-2016 04:13:05 UTC] PHP Notice:  Constant HOST already defined in /home/aapio500/public_html/loginSystem/includes/conn.inc.php on line 3
+[17-Mar-2016 04:13:05 UTC] PHP Notice:  Constant USER already defined in /home/aapio500/public_html/loginSystem/includes/conn.inc.php on line 4
+[17-Mar-2016 04:13:05 UTC] PHP Notice:  Constant PASSWORD already defined in /home/aapio500/public_html/loginSystem/includes/conn.inc.php on line 5
+[17-Mar-2016 04:13:05 UTC] PHP Notice:  Constant DATABASE already defined in /home/aapio500/public_html/loginSystem/includes/conn.inc.php on line 6
+[17-Mar-2016 04:13:05 UTC] PHP Notice:  Constant CAN_REGISTER already defined in /home/aapio500/public_html/loginSystem/includes/conn.inc.php on line 7
+[17-Mar-2016 04:13:05 UTC] PHP Notice:  Constant DEFAULT_ROLE already defined in /home/aapio500/public_html/loginSystem/includes/conn.inc.php on line 8
+[17-Mar-2016 04:13:05 UTC] PHP Notice:  Constant SECURE already defined in /home/aapio500/public_html/loginSystem/includes/conn.inc.php on line 9
+[17-Mar-2016 04:13:05 UTC] PHP Notice:  Constant HOST already defined in /home/aapio500/public_html/loginSystem/includes/conn.inc.php on line 3
+[17-Mar-2016 04:13:05 UTC] PHP Notice:  Constant USER already defined in /home/aapio500/public_html/loginSystem/includes/conn.inc.php on line 4
+[17-Mar-2016 04:13:05 UTC] PHP Notice:  Constant PASSWORD already defined in /home/aapio500/public_html/loginSystem/includes/conn.inc.php on line 5
+[17-Mar-2016 04:13:05 UTC] PHP Notice:  Constant DATABASE already defined in /home/aapio500/public_html/loginSystem/includes/conn.inc.php on line 6
+[17-Mar-2016 04:13:05 UTC] PHP Notice:  Constant CAN_REGISTER already defined in /home/aapio500/public_html/loginSystem/includes/conn.inc.php on line 7
+[17-Mar-2016 04:13:05 UTC] PHP Notice:  Constant DEFAULT_ROLE already defined in /home/aapio500/public_html/loginSystem/includes/conn.inc.php on line 8
+[17-Mar-2016 04:13:05 UTC] PHP Notice:  Constant SECURE already defined in /home/aapio500/public_html/loginSystem/includes/conn.inc.php on line 9
+[17-Mar-2016 04:13:19 UTC] PHP Notice:  Constant HOST already defined in /home/aapio500/public_html/loginSystem/includes/conn.inc.php on line 3
+[17-Mar-2016 04:13:19 UTC] PHP Notice:  Constant USER already defined in /home/aapio500/public_html/loginSystem/includes/conn.inc.php on line 4
+[17-Mar-2016 04:13:19 UTC] PHP Notice:  Constant PASSWORD already defined in /home/aapio500/public_html/loginSystem/includes/conn.inc.php on line 5
+[17-Mar-2016 04:13:19 UTC] PHP Notice:  Constant DATABASE already defined in /home/aapio500/public_html/loginSystem/includes/conn.inc.php on line 6
+[17-Mar-2016 04:13:19 UTC] PHP Notice:  Constant CAN_REGISTER already defined in /home/aapio500/public_html/loginSystem/includes/conn.inc.php on line 7
+[17-Mar-2016 04:13:19 UTC] PHP Notice:  Constant DEFAULT_ROLE already defined in /home/aapio500/public_html/loginSystem/includes/conn.inc.php on line 8
+[17-Mar-2016 04:13:19 UTC] PHP Notice:  Constant SECURE already defined in /home/aapio500/public_html/loginSystem/includes/conn.inc.php on line 9
+[17-Mar-2016 04:13:20 UTC] PHP Notice:  Constant HOST already defined in /home/aapio500/public_html/loginSystem/includes/conn.inc.php on line 3
+[17-Mar-2016 04:13:20 UTC] PHP Notice:  Constant USER already defined in /home/aapio500/public_html/loginSystem/includes/conn.inc.php on line 4
+[17-Mar-2016 04:13:20 UTC] PHP Notice:  Constant PASSWORD already defined in /home/aapio500/public_html/loginSystem/includes/conn.inc.php on line 5
+[17-Mar-2016 04:13:20 UTC] PHP Notice:  Constant DATABASE already defined in /home/aapio500/public_html/loginSystem/includes/conn.inc.php on line 6
+[17-Mar-2016 04:13:20 UTC] PHP Notice:  Constant CAN_REGISTER already defined in /home/aapio500/public_html/loginSystem/includes/conn.inc.php on line 7
+[17-Mar-2016 04:13:20 UTC] PHP Notice:  Constant DEFAULT_ROLE already defined in /home/aapio500/public_html/loginSystem/includes/conn.inc.php on line 8
+[17-Mar-2016 04:13:20 UTC] PHP Notice:  Constant SECURE already defined in /home/aapio500/public_html/loginSystem/includes/conn.inc.php on line 9
+[17-Mar-2016 04:13:47 UTC] PHP Notice:  Constant HOST already defined in /home/aapio500/public_html/loginSystem/includes/conn.inc.php on line 3
+[17-Mar-2016 04:13:47 UTC] PHP Notice:  Constant USER already defined in /home/aapio500/public_html/loginSystem/includes/conn.inc.php on line 4
+[17-Mar-2016 04:13:47 UTC] PHP Notice:  Constant PASSWORD already defined in /home/aapio500/public_html/loginSystem/includes/conn.inc.php on line 5
+[17-Mar-2016 04:13:47 UTC] PHP Notice:  Constant DATABASE already defined in /home/aapio500/public_html/loginSystem/includes/conn.inc.php on line 6
+[17-Mar-2016 04:13:47 UTC] PHP Notice:  Constant CAN_REGISTER already defined in /home/aapio500/public_html/loginSystem/includes/conn.inc.php on line 7
+[17-Mar-2016 04:13:47 UTC] PHP Notice:  Constant DEFAULT_ROLE already defined in /home/aapio500/public_html/loginSystem/includes/conn.inc.php on line 8
+[17-Mar-2016 04:13:47 UTC] PHP Notice:  Constant SECURE already defined in /home/aapio500/public_html/loginSystem/includes/conn.inc.php on line 9
+[17-Mar-2016 04:13:47 UTC] PHP Notice:  Constant HOST already defined in /home/aapio500/public_html/loginSystem/includes/conn.inc.php on line 3
+[17-Mar-2016 04:13:47 UTC] PHP Notice:  Constant USER already defined in /home/aapio500/public_html/loginSystem/includes/conn.inc.php on line 4
+[17-Mar-2016 04:13:47 UTC] PHP Notice:  Constant PASSWORD already defined in /home/aapio500/public_html/loginSystem/includes/conn.inc.php on line 5
+[17-Mar-2016 04:13:47 UTC] PHP Notice:  Constant DATABASE already defined in /home/aapio500/public_html/loginSystem/includes/conn.inc.php on line 6
+[17-Mar-2016 04:13:47 UTC] PHP Notice:  Constant CAN_REGISTER already defined in /home/aapio500/public_html/loginSystem/includes/conn.inc.php on line 7
+[17-Mar-2016 04:13:47 UTC] PHP Notice:  Constant DEFAULT_ROLE already defined in /home/aapio500/public_html/loginSystem/includes/conn.inc.php on line 8
+[17-Mar-2016 04:13:47 UTC] PHP Notice:  Constant SECURE already defined in /home/aapio500/public_html/loginSystem/includes/conn.inc.php on line 9
+[17-Mar-2016 04:13:53 UTC] PHP Notice:  Constant HOST already defined in /home/aapio500/public_html/loginSystem/includes/conn.inc.php on line 3
+[17-Mar-2016 04:13:53 UTC] PHP Notice:  Constant USER already defined in /home/aapio500/public_html/loginSystem/includes/conn.inc.php on line 4
+[17-Mar-2016 04:13:53 UTC] PHP Notice:  Constant PASSWORD already defined in /home/aapio500/public_html/loginSystem/includes/conn.inc.php on line 5
+[17-Mar-2016 04:13:53 UTC] PHP Notice:  Constant DATABASE already defined in /home/aapio500/public_html/loginSystem/includes/conn.inc.php on line 6
+[17-Mar-2016 04:13:53 UTC] PHP Notice:  Constant CAN_REGISTER already defined in /home/aapio500/public_html/loginSystem/includes/conn.inc.php on line 7
+[17-Mar-2016 04:13:53 UTC] PHP Notice:  Constant DEFAULT_ROLE already defined in /home/aapio500/public_html/loginSystem/includes/conn.inc.php on line 8
+[17-Mar-2016 04:13:53 UTC] PHP Notice:  Constant SECURE already defined in /home/aapio500/public_html/loginSystem/includes/conn.inc.php on line 9
+[17-Mar-2016 04:13:53 UTC] PHP Notice:  Constant HOST already defined in /home/aapio500/public_html/loginSystem/includes/conn.inc.php on line 3
+[17-Mar-2016 04:13:53 UTC] PHP Notice:  Constant USER already defined in /home/aapio500/public_html/loginSystem/includes/conn.inc.php on line 4
+[17-Mar-2016 04:13:53 UTC] PHP Notice:  Constant PASSWORD already defined in /home/aapio500/public_html/loginSystem/includes/conn.inc.php on line 5
+[17-Mar-2016 04:13:53 UTC] PHP Notice:  Constant DATABASE already defined in /home/aapio500/public_html/loginSystem/includes/conn.inc.php on line 6
+[17-Mar-2016 04:13:53 UTC] PHP Notice:  Constant CAN_REGISTER already defined in /home/aapio500/public_html/loginSystem/includes/conn.inc.php on line 7
+[17-Mar-2016 04:13:53 UTC] PHP Notice:  Constant DEFAULT_ROLE already defined in /home/aapio500/public_html/loginSystem/includes/conn.inc.php on line 8
+[17-Mar-2016 04:13:53 UTC] PHP Notice:  Constant SECURE already defined in /home/aapio500/public_html/loginSystem/includes/conn.inc.php on line 9
+[17-Mar-2016 04:13:58 UTC] PHP Notice:  Constant HOST already defined in /home/aapio500/public_html/loginSystem/includes/conn.inc.php on line 3
+[17-Mar-2016 04:13:58 UTC] PHP Notice:  Constant USER already defined in /home/aapio500/public_html/loginSystem/includes/conn.inc.php on line 4
+[17-Mar-2016 04:13:58 UTC] PHP Notice:  Constant PASSWORD already defined in /home/aapio500/public_html/loginSystem/includes/conn.inc.php on line 5
+[17-Mar-2016 04:13:58 UTC] PHP Notice:  Constant DATABASE already defined in /home/aapio500/public_html/loginSystem/includes/conn.inc.php on line 6
+[17-Mar-2016 04:13:58 UTC] PHP Notice:  Constant CAN_REGISTER already defined in /home/aapio500/public_html/loginSystem/includes/conn.inc.php on line 7
+[17-Mar-2016 04:13:58 UTC] PHP Notice:  Constant DEFAULT_ROLE already defined in /home/aapio500/public_html/loginSystem/includes/conn.inc.php on line 8
+[17-Mar-2016 04:13:58 UTC] PHP Notice:  Constant SECURE already defined in /home/aapio500/public_html/loginSystem/includes/conn.inc.php on line 9
+[17-Mar-2016 04:13:58 UTC] PHP Notice:  Constant HOST already defined in /home/aapio500/public_html/loginSystem/includes/conn.inc.php on line 3
+[17-Mar-2016 04:13:58 UTC] PHP Notice:  Constant USER already defined in /home/aapio500/public_html/loginSystem/includes/conn.inc.php on line 4
+[17-Mar-2016 04:13:58 UTC] PHP Notice:  Constant PASSWORD already defined in /home/aapio500/public_html/loginSystem/includes/conn.inc.php on line 5
+[17-Mar-2016 04:13:58 UTC] PHP Notice:  Constant DATABASE already defined in /home/aapio500/public_html/loginSystem/includes/conn.inc.php on line 6
+[17-Mar-2016 04:13:58 UTC] PHP Notice:  Constant CAN_REGISTER already defined in /home/aapio500/public_html/loginSystem/includes/conn.inc.php on line 7
+[17-Mar-2016 04:13:58 UTC] PHP Notice:  Constant DEFAULT_ROLE already defined in /home/aapio500/public_html/loginSystem/includes/conn.inc.php on line 8
+[17-Mar-2016 04:13:58 UTC] PHP Notice:  Constant SECURE already defined in /home/aapio500/public_html/loginSystem/includes/conn.inc.php on line 9
+[17-Mar-2016 04:14:17 UTC] PHP Notice:  Constant HOST already defined in /home/aapio500/public_html/loginSystem/includes/conn.inc.php on line 3
+[17-Mar-2016 04:14:17 UTC] PHP Notice:  Constant USER already defined in /home/aapio500/public_html/loginSystem/includes/conn.inc.php on line 4
+[17-Mar-2016 04:14:17 UTC] PHP Notice:  Constant PASSWORD already defined in /home/aapio500/public_html/loginSystem/includes/conn.inc.php on line 5
+[17-Mar-2016 04:14:17 UTC] PHP Notice:  Constant DATABASE already defined in /home/aapio500/public_html/loginSystem/includes/conn.inc.php on line 6
+[17-Mar-2016 04:14:17 UTC] PHP Notice:  Constant CAN_REGISTER already defined in /home/aapio500/public_html/loginSystem/includes/conn.inc.php on line 7
+[17-Mar-2016 04:14:17 UTC] PHP Notice:  Constant DEFAULT_ROLE already defined in /home/aapio500/public_html/loginSystem/includes/conn.inc.php on line 8
+[17-Mar-2016 04:14:17 UTC] PHP Notice:  Constant SECURE already defined in /home/aapio500/public_html/loginSystem/includes/conn.inc.php on line 9
+[17-Mar-2016 04:14:17 UTC] PHP Notice:  Constant HOST already defined in /home/aapio500/public_html/loginSystem/includes/conn.inc.php on line 3
+[17-Mar-2016 04:14:17 UTC] PHP Notice:  Constant USER already defined in /home/aapio500/public_html/loginSystem/includes/conn.inc.php on line 4
+[17-Mar-2016 04:14:17 UTC] PHP Notice:  Constant PASSWORD already defined in /home/aapio500/public_html/loginSystem/includes/conn.inc.php on line 5
+[17-Mar-2016 04:14:17 UTC] PHP Notice:  Constant DATABASE already defined in /home/aapio500/public_html/loginSystem/includes/conn.inc.php on line 6
+[17-Mar-2016 04:14:17 UTC] PHP Notice:  Constant CAN_REGISTER already defined in /home/aapio500/public_html/loginSystem/includes/conn.inc.php on line 7
+[17-Mar-2016 04:14:17 UTC] PHP Notice:  Constant DEFAULT_ROLE already defined in /home/aapio500/public_html/loginSystem/includes/conn.inc.php on line 8
+[17-Mar-2016 04:14:17 UTC] PHP Notice:  Constant SECURE already defined in /home/aapio500/public_html/loginSystem/includes/conn.inc.php on line 9
+[17-Mar-2016 04:14:43 UTC] PHP Notice:  Constant HOST already defined in /home/aapio500/public_html/loginSystem/includes/conn.inc.php on line 3
+[17-Mar-2016 04:14:43 UTC] PHP Notice:  Constant USER already defined in /home/aapio500/public_html/loginSystem/includes/conn.inc.php on line 4
+[17-Mar-2016 04:14:43 UTC] PHP Notice:  Constant PASSWORD already defined in /home/aapio500/public_html/loginSystem/includes/conn.inc.php on line 5
+[17-Mar-2016 04:14:43 UTC] PHP Notice:  Constant DATABASE already defined in /home/aapio500/public_html/loginSystem/includes/conn.inc.php on line 6
+[17-Mar-2016 04:14:43 UTC] PHP Notice:  Constant CAN_REGISTER already defined in /home/aapio500/public_html/loginSystem/includes/conn.inc.php on line 7
+[17-Mar-2016 04:14:43 UTC] PHP Notice:  Constant DEFAULT_ROLE already defined in /home/aapio500/public_html/loginSystem/includes/conn.inc.php on line 8
+[17-Mar-2016 04:14:43 UTC] PHP Notice:  Constant SECURE already defined in /home/aapio500/public_html/loginSystem/includes/conn.inc.php on line 9
+[17-Mar-2016 04:14:43 UTC] PHP Notice:  Constant HOST already defined in /home/aapio500/public_html/loginSystem/includes/conn.inc.php on line 3
+[17-Mar-2016 04:14:43 UTC] PHP Notice:  Constant USER already defined in /home/aapio500/public_html/loginSystem/includes/conn.inc.php on line 4
+[17-Mar-2016 04:14:43 UTC] PHP Notice:  Constant PASSWORD already defined in /home/aapio500/public_html/loginSystem/includes/conn.inc.php on line 5
+[17-Mar-2016 04:14:43 UTC] PHP Notice:  Constant DATABASE already defined in /home/aapio500/public_html/loginSystem/includes/conn.inc.php on line 6
+[17-Mar-2016 04:14:43 UTC] PHP Notice:  Constant CAN_REGISTER already defined in /home/aapio500/public_html/loginSystem/includes/conn.inc.php on line 7
+[17-Mar-2016 04:14:43 UTC] PHP Notice:  Constant DEFAULT_ROLE already defined in /home/aapio500/public_html/loginSystem/includes/conn.inc.php on line 8
+[17-Mar-2016 04:14:43 UTC] PHP Notice:  Constant SECURE already defined in /home/aapio500/public_html/loginSystem/includes/conn.inc.php on line 9
+[17-Mar-2016 04:14:55 UTC] PHP Notice:  Constant HOST already defined in /home/aapio500/public_html/loginSystem/includes/conn.inc.php on line 3
+[17-Mar-2016 04:14:55 UTC] PHP Notice:  Constant USER already defined in /home/aapio500/public_html/loginSystem/includes/conn.inc.php on line 4
+[17-Mar-2016 04:14:55 UTC] PHP Notice:  Constant PASSWORD already defined in /home/aapio500/public_html/loginSystem/includes/conn.inc.php on line 5
+[17-Mar-2016 04:14:55 UTC] PHP Notice:  Constant DATABASE already defined in /home/aapio500/public_html/loginSystem/includes/conn.inc.php on line 6
+[17-Mar-2016 04:14:55 UTC] PHP Notice:  Constant CAN_REGISTER already defined in /home/aapio500/public_html/loginSystem/includes/conn.inc.php on line 7
+[17-Mar-2016 04:14:55 UTC] PHP Notice:  Constant DEFAULT_ROLE already defined in /home/aapio500/public_html/loginSystem/includes/conn.inc.php on line 8
+[17-Mar-2016 04:14:55 UTC] PHP Notice:  Constant SECURE already defined in /home/aapio500/public_html/loginSystem/includes/conn.inc.php on line 9
+[17-Mar-2016 04:14:55 UTC] PHP Notice:  Constant HOST already defined in /home/aapio500/public_html/loginSystem/includes/conn.inc.php on line 3
+[17-Mar-2016 04:14:55 UTC] PHP Notice:  Constant USER already defined in /home/aapio500/public_html/loginSystem/includes/conn.inc.php on line 4
+[17-Mar-2016 04:14:55 UTC] PHP Notice:  Constant PASSWORD already defined in /home/aapio500/public_html/loginSystem/includes/conn.inc.php on line 5
+[17-Mar-2016 04:14:55 UTC] PHP Notice:  Constant DATABASE already defined in /home/aapio500/public_html/loginSystem/includes/conn.inc.php on line 6
+[17-Mar-2016 04:14:55 UTC] PHP Notice:  Constant CAN_REGISTER already defined in /home/aapio500/public_html/loginSystem/includes/conn.inc.php on line 7
+[17-Mar-2016 04:14:55 UTC] PHP Notice:  Constant DEFAULT_ROLE already defined in /home/aapio500/public_html/loginSystem/includes/conn.inc.php on line 8
+[17-Mar-2016 04:14:55 UTC] PHP Notice:  Constant SECURE already defined in /home/aapio500/public_html/loginSystem/includes/conn.inc.php on line 9
+[17-Mar-2016 04:15:00 UTC] PHP Notice:  Constant HOST already defined in /home/aapio500/public_html/loginSystem/includes/conn.inc.php on line 3
+[17-Mar-2016 04:15:00 UTC] PHP Notice:  Constant USER already defined in /home/aapio500/public_html/loginSystem/includes/conn.inc.php on line 4
+[17-Mar-2016 04:15:00 UTC] PHP Notice:  Constant PASSWORD already defined in /home/aapio500/public_html/loginSystem/includes/conn.inc.php on line 5
+[17-Mar-2016 04:15:00 UTC] PHP Notice:  Constant DATABASE already defined in /home/aapio500/public_html/loginSystem/includes/conn.inc.php on line 6
+[17-Mar-2016 04:15:00 UTC] PHP Notice:  Constant CAN_REGISTER already defined in /home/aapio500/public_html/loginSystem/includes/conn.inc.php on line 7
+[17-Mar-2016 04:15:00 UTC] PHP Notice:  Constant DEFAULT_ROLE already defined in /home/aapio500/public_html/loginSystem/includes/conn.inc.php on line 8
+[17-Mar-2016 04:15:00 UTC] PHP Notice:  Constant SECURE already defined in /home/aapio500/public_html/loginSystem/includes/conn.inc.php on line 9
+[17-Mar-2016 04:15:00 UTC] PHP Notice:  Constant HOST already defined in /home/aapio500/public_html/loginSystem/includes/conn.inc.php on line 3
+[17-Mar-2016 04:15:00 UTC] PHP Notice:  Constant USER already defined in /home/aapio500/public_html/loginSystem/includes/conn.inc.php on line 4
+[17-Mar-2016 04:15:00 UTC] PHP Notice:  Constant PASSWORD already defined in /home/aapio500/public_html/loginSystem/includes/conn.inc.php on line 5
+[17-Mar-2016 04:15:00 UTC] PHP Notice:  Constant DATABASE already defined in /home/aapio500/public_html/loginSystem/includes/conn.inc.php on line 6
+[17-Mar-2016 04:15:00 UTC] PHP Notice:  Constant CAN_REGISTER already defined in /home/aapio500/public_html/loginSystem/includes/conn.inc.php on line 7
+[17-Mar-2016 04:15:00 UTC] PHP Notice:  Constant DEFAULT_ROLE already defined in /home/aapio500/public_html/loginSystem/includes/conn.inc.php on line 8
+[17-Mar-2016 04:15:00 UTC] PHP Notice:  Constant SECURE already defined in /home/aapio500/public_html/loginSystem/includes/conn.inc.php on line 9
+[17-Mar-2016 04:15:09 UTC] PHP Notice:  Constant HOST already defined in /home/aapio500/public_html/loginSystem/includes/conn.inc.php on line 3
+[17-Mar-2016 04:15:09 UTC] PHP Notice:  Constant USER already defined in /home/aapio500/public_html/loginSystem/includes/conn.inc.php on line 4
+[17-Mar-2016 04:15:09 UTC] PHP Notice:  Constant PASSWORD already defined in /home/aapio500/public_html/loginSystem/includes/conn.inc.php on line 5
+[17-Mar-2016 04:15:09 UTC] PHP Notice:  Constant DATABASE already defined in /home/aapio500/public_html/loginSystem/includes/conn.inc.php on line 6
+[17-Mar-2016 04:15:09 UTC] PHP Notice:  Constant CAN_REGISTER already defined in /home/aapio500/public_html/loginSystem/includes/conn.inc.php on line 7
+[17-Mar-2016 04:15:09 UTC] PHP Notice:  Constant DEFAULT_ROLE already defined in /home/aapio500/public_html/loginSystem/includes/conn.inc.php on line 8
+[17-Mar-2016 04:15:09 UTC] PHP Notice:  Constant SECURE already defined in /home/aapio500/public_html/loginSystem/includes/conn.inc.php on line 9
+[17-Mar-2016 04:15:09 UTC] PHP Notice:  Constant HOST already defined in /home/aapio500/public_html/loginSystem/includes/conn.inc.php on line 3
+[17-Mar-2016 04:15:09 UTC] PHP Notice:  Constant USER already defined in /home/aapio500/public_html/loginSystem/includes/conn.inc.php on line 4
+[17-Mar-2016 04:15:09 UTC] PHP Notice:  Constant PASSWORD already defined in /home/aapio500/public_html/loginSystem/includes/conn.inc.php on line 5
+[17-Mar-2016 04:15:09 UTC] PHP Notice:  Constant DATABASE already defined in /home/aapio500/public_html/loginSystem/includes/conn.inc.php on line 6
+[17-Mar-2016 04:15:09 UTC] PHP Notice:  Constant CAN_REGISTER already defined in /home/aapio500/public_html/loginSystem/includes/conn.inc.php on line 7
+[17-Mar-2016 04:15:09 UTC] PHP Notice:  Constant DEFAULT_ROLE already defined in /home/aapio500/public_html/loginSystem/includes/conn.inc.php on line 8
+[17-Mar-2016 04:15:09 UTC] PHP Notice:  Constant SECURE already defined in /home/aapio500/public_html/loginSystem/includes/conn.inc.php on line 9
+[17-Mar-2016 04:15:15 UTC] PHP Notice:  Constant HOST already defined in /home/aapio500/public_html/loginSystem/includes/conn.inc.php on line 3
+[17-Mar-2016 04:15:15 UTC] PHP Notice:  Constant USER already defined in /home/aapio500/public_html/loginSystem/includes/conn.inc.php on line 4
+[17-Mar-2016 04:15:15 UTC] PHP Notice:  Constant PASSWORD already defined in /home/aapio500/public_html/loginSystem/includes/conn.inc.php on line 5
+[17-Mar-2016 04:15:15 UTC] PHP Notice:  Constant DATABASE already defined in /home/aapio500/public_html/loginSystem/includes/conn.inc.php on line 6
+[17-Mar-2016 04:15:15 UTC] PHP Notice:  Constant CAN_REGISTER already defined in /home/aapio500/public_html/loginSystem/includes/conn.inc.php on line 7
+[17-Mar-2016 04:15:15 UTC] PHP Notice:  Constant DEFAULT_ROLE already defined in /home/aapio500/public_html/loginSystem/includes/conn.inc.php on line 8
+[17-Mar-2016 04:15:15 UTC] PHP Notice:  Constant SECURE already defined in /home/aapio500/public_html/loginSystem/includes/conn.inc.php on line 9
+[17-Mar-2016 04:15:15 UTC] PHP Notice:  Constant HOST already defined in /home/aapio500/public_html/loginSystem/includes/conn.inc.php on line 3
+[17-Mar-2016 04:15:15 UTC] PHP Notice:  Constant USER already defined in /home/aapio500/public_html/loginSystem/includes/conn.inc.php on line 4
+[17-Mar-2016 04:15:15 UTC] PHP Notice:  Constant PASSWORD already defined in /home/aapio500/public_html/loginSystem/includes/conn.inc.php on line 5
+[17-Mar-2016 04:15:15 UTC] PHP Notice:  Constant DATABASE already defined in /home/aapio500/public_html/loginSystem/includes/conn.inc.php on line 6
+[17-Mar-2016 04:15:15 UTC] PHP Notice:  Constant CAN_REGISTER already defined in /home/aapio500/public_html/loginSystem/includes/conn.inc.php on line 7
+[17-Mar-2016 04:15:15 UTC] PHP Notice:  Constant DEFAULT_ROLE already defined in /home/aapio500/public_html/loginSystem/includes/conn.inc.php on line 8
+[17-Mar-2016 04:15:15 UTC] PHP Notice:  Constant SECURE already defined in /home/aapio500/public_html/loginSystem/includes/conn.inc.php on line 9
+[22-Mar-2016 11:35:37 UTC] PHP Fatal error:  Call to undefined function sec_session_start() in /home/aapio500/public_html/index.php on line 7
+[22-Mar-2016 11:35:41 UTC] PHP Fatal error:  Call to undefined function sec_session_start() in /home/aapio500/public_html/index.php on line 7
+[22-Mar-2016 11:35:42 UTC] PHP Fatal error:  Call to undefined function sec_session_start() in /home/aapio500/public_html/index.php on line 7
+[26-Mar-2016 15:25:45 UTC] PHP Warning:  include(cms/includes/head.inc.php): failed to open stream: No such file or directory in /home/aapio500/public_html/portfolio.php on line 10
+[26-Mar-2016 15:25:45 UTC] PHP Warning:  include(cms/includes/head.inc.php): failed to open stream: No such file or directory in /home/aapio500/public_html/portfolio.php on line 10
+[26-Mar-2016 15:25:45 UTC] PHP Warning:  include(): Failed opening 'cms/includes/head.inc.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/aapio500/public_html/portfolio.php on line 10
+[26-Mar-2016 15:25:45 UTC] PHP Warning:  include(cms/includes/nav.inc.php): failed to open stream: No such file or directory in /home/aapio500/public_html/portfolio.php on line 12
+[26-Mar-2016 15:25:45 UTC] PHP Warning:  include(cms/includes/nav.inc.php): failed to open stream: No such file or directory in /home/aapio500/public_html/portfolio.php on line 12
+[26-Mar-2016 15:25:45 UTC] PHP Warning:  include(): Failed opening 'cms/includes/nav.inc.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/aapio500/public_html/portfolio.php on line 12
+[26-Mar-2016 15:25:45 UTC] PHP Warning:  include(cms/includes/foot.inc.php): failed to open stream: No such file or directory in /home/aapio500/public_html/portfolio.php on line 104
+[26-Mar-2016 15:25:45 UTC] PHP Warning:  include(cms/includes/foot.inc.php): failed to open stream: No such file or directory in /home/aapio500/public_html/portfolio.php on line 104
+[26-Mar-2016 15:25:45 UTC] PHP Warning:  include(): Failed opening 'cms/includes/foot.inc.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/aapio500/public_html/portfolio.php on line 104
+[30-Mar-2016 07:19:41 UTC] PHP Warning:  include(cms/includes/head.inc.php): failed to open stream: No such file or directory in /home/aapio500/public_html/portfolio.php on line 10
+[30-Mar-2016 07:19:41 UTC] PHP Warning:  include(cms/includes/head.inc.php): failed to open stream: No such file or directory in /home/aapio500/public_html/portfolio.php on line 10
+[30-Mar-2016 07:19:41 UTC] PHP Warning:  include(): Failed opening 'cms/includes/head.inc.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/aapio500/public_html/portfolio.php on line 10
+[30-Mar-2016 07:19:41 UTC] PHP Warning:  include(cms/includes/nav.inc.php): failed to open stream: No such file or directory in /home/aapio500/public_html/portfolio.php on line 12
+[30-Mar-2016 07:19:41 UTC] PHP Warning:  include(cms/includes/nav.inc.php): failed to open stream: No such file or directory in /home/aapio500/public_html/portfolio.php on line 12
+[30-Mar-2016 07:19:41 UTC] PHP Warning:  include(): Failed opening 'cms/includes/nav.inc.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/aapio500/public_html/portfolio.php on line 12
+[30-Mar-2016 07:19:41 UTC] PHP Warning:  include(cms/includes/foot.inc.php): failed to open stream: No such file or directory in /home/aapio500/public_html/portfolio.php on line 104
+[30-Mar-2016 07:19:41 UTC] PHP Warning:  include(cms/includes/foot.inc.php): failed to open stream: No such file or directory in /home/aapio500/public_html/portfolio.php on line 104
+[30-Mar-2016 07:19:41 UTC] PHP Warning:  include(): Failed opening 'cms/includes/foot.inc.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/aapio500/public_html/portfolio.php on line 104
+[31-Mar-2016 12:55:13 UTC] PHP Warning:  include(cms/includes/head.inc.php): failed to open stream: No such file or directory in /home/aapio500/public_html/portfolio.php on line 10
+[31-Mar-2016 12:55:13 UTC] PHP Warning:  include(cms/includes/head.inc.php): failed to open stream: No such file or directory in /home/aapio500/public_html/portfolio.php on line 10
+[31-Mar-2016 12:55:13 UTC] PHP Warning:  include(): Failed opening 'cms/includes/head.inc.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/aapio500/public_html/portfolio.php on line 10
+[31-Mar-2016 12:55:13 UTC] PHP Warning:  include(cms/includes/nav.inc.php): failed to open stream: No such file or directory in /home/aapio500/public_html/portfolio.php on line 12
+[31-Mar-2016 12:55:13 UTC] PHP Warning:  include(cms/includes/nav.inc.php): failed to open stream: No such file or directory in /home/aapio500/public_html/portfolio.php on line 12
+[31-Mar-2016 12:55:13 UTC] PHP Warning:  include(): Failed opening 'cms/includes/nav.inc.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/aapio500/public_html/portfolio.php on line 12
+[31-Mar-2016 12:55:13 UTC] PHP Warning:  include(cms/includes/foot.inc.php): failed to open stream: No such file or directory in /home/aapio500/public_html/portfolio.php on line 104
+[31-Mar-2016 12:55:13 UTC] PHP Warning:  include(cms/includes/foot.inc.php): failed to open stream: No such file or directory in /home/aapio500/public_html/portfolio.php on line 104
+[31-Mar-2016 12:55:13 UTC] PHP Warning:  include(): Failed opening 'cms/includes/foot.inc.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/aapio500/public_html/portfolio.php on line 104
+[01-Apr-2016 09:51:12 UTC] PHP Warning:  include(cms/includes/head.inc.php): failed to open stream: No such file or directory in /home/aapio500/public_html/portfolio.php on line 10
+[01-Apr-2016 09:51:12 UTC] PHP Warning:  include(cms/includes/head.inc.php): failed to open stream: No such file or directory in /home/aapio500/public_html/portfolio.php on line 10
+[01-Apr-2016 09:51:12 UTC] PHP Warning:  include(): Failed opening 'cms/includes/head.inc.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/aapio500/public_html/portfolio.php on line 10
+[01-Apr-2016 09:51:12 UTC] PHP Warning:  include(cms/includes/nav.inc.php): failed to open stream: No such file or directory in /home/aapio500/public_html/portfolio.php on line 12
+[01-Apr-2016 09:51:12 UTC] PHP Warning:  include(cms/includes/nav.inc.php): failed to open stream: No such file or directory in /home/aapio500/public_html/portfolio.php on line 12
+[01-Apr-2016 09:51:12 UTC] PHP Warning:  include(): Failed opening 'cms/includes/nav.inc.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/aapio500/public_html/portfolio.php on line 12
+[01-Apr-2016 09:51:12 UTC] PHP Warning:  include(cms/includes/foot.inc.php): failed to open stream: No such file or directory in /home/aapio500/public_html/portfolio.php on line 104
+[01-Apr-2016 09:51:12 UTC] PHP Warning:  include(cms/includes/foot.inc.php): failed to open stream: No such file or directory in /home/aapio500/public_html/portfolio.php on line 104
+[01-Apr-2016 09:51:12 UTC] PHP Warning:  include(): Failed opening 'cms/includes/foot.inc.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/aapio500/public_html/portfolio.php on line 104
+[02-Apr-2016 00:37:18 UTC] PHP Warning:  include(cms/includes/head.inc.php): failed to open stream: No such file or directory in /home/aapio500/public_html/portfolio.php on line 10
+[02-Apr-2016 00:37:18 UTC] PHP Warning:  include(cms/includes/head.inc.php): failed to open stream: No such file or directory in /home/aapio500/public_html/portfolio.php on line 10
+[02-Apr-2016 00:37:18 UTC] PHP Warning:  include(): Failed opening 'cms/includes/head.inc.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/aapio500/public_html/portfolio.php on line 10
+[02-Apr-2016 00:37:18 UTC] PHP Warning:  include(cms/includes/nav.inc.php): failed to open stream: No such file or directory in /home/aapio500/public_html/portfolio.php on line 12
+[02-Apr-2016 00:37:18 UTC] PHP Warning:  include(cms/includes/nav.inc.php): failed to open stream: No such file or directory in /home/aapio500/public_html/portfolio.php on line 12
+[02-Apr-2016 00:37:18 UTC] PHP Warning:  include(): Failed opening 'cms/includes/nav.inc.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/aapio500/public_html/portfolio.php on line 12
+[02-Apr-2016 00:37:18 UTC] PHP Warning:  include(cms/includes/foot.inc.php): failed to open stream: No such file or directory in /home/aapio500/public_html/portfolio.php on line 104
+[02-Apr-2016 00:37:18 UTC] PHP Warning:  include(cms/includes/foot.inc.php): failed to open stream: No such file or directory in /home/aapio500/public_html/portfolio.php on line 104
+[02-Apr-2016 00:37:18 UTC] PHP Warning:  include(): Failed opening 'cms/includes/foot.inc.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/aapio500/public_html/portfolio.php on line 104
+[02-Apr-2016 06:21:25 UTC] PHP Warning:  include(cms/includes/head.inc.php): failed to open stream: No such file or directory in /home/aapio500/public_html/portfolio.php on line 10
+[02-Apr-2016 06:21:25 UTC] PHP Warning:  include(cms/includes/head.inc.php): failed to open stream: No such file or directory in /home/aapio500/public_html/portfolio.php on line 10
+[02-Apr-2016 06:21:25 UTC] PHP Warning:  include(): Failed opening 'cms/includes/head.inc.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/aapio500/public_html/portfolio.php on line 10
+[02-Apr-2016 06:21:25 UTC] PHP Warning:  include(cms/includes/nav.inc.php): failed to open stream: No such file or directory in /home/aapio500/public_html/portfolio.php on line 12
+[02-Apr-2016 06:21:25 UTC] PHP Warning:  include(cms/includes/nav.inc.php): failed to open stream: No such file or directory in /home/aapio500/public_html/portfolio.php on line 12
+[02-Apr-2016 06:21:25 UTC] PHP Warning:  include(): Failed opening 'cms/includes/nav.inc.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/aapio500/public_html/portfolio.php on line 12
+[02-Apr-2016 06:21:25 UTC] PHP Warning:  include(cms/includes/foot.inc.php): failed to open stream: No such file or directory in /home/aapio500/public_html/portfolio.php on line 104
+[02-Apr-2016 06:21:25 UTC] PHP Warning:  include(cms/includes/foot.inc.php): failed to open stream: No such file or directory in /home/aapio500/public_html/portfolio.php on line 104
+[02-Apr-2016 06:21:25 UTC] PHP Warning:  include(): Failed opening 'cms/includes/foot.inc.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/aapio500/public_html/portfolio.php on line 104
+[03-Apr-2016 02:59:38 UTC] PHP Warning:  include(cms/includes/head.inc.php): failed to open stream: No such file or directory in /home/aapio500/public_html/portfolio.php on line 10
+[03-Apr-2016 02:59:38 UTC] PHP Warning:  include(cms/includes/head.inc.php): failed to open stream: No such file or directory in /home/aapio500/public_html/portfolio.php on line 10
+[03-Apr-2016 02:59:38 UTC] PHP Warning:  include(): Failed opening 'cms/includes/head.inc.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/aapio500/public_html/portfolio.php on line 10
+[03-Apr-2016 02:59:38 UTC] PHP Warning:  include(cms/includes/nav.inc.php): failed to open stream: No such file or directory in /home/aapio500/public_html/portfolio.php on line 12
+[03-Apr-2016 02:59:38 UTC] PHP Warning:  include(cms/includes/nav.inc.php): failed to open stream: No such file or directory in /home/aapio500/public_html/portfolio.php on line 12
+[03-Apr-2016 02:59:38 UTC] PHP Warning:  include(): Failed opening 'cms/includes/nav.inc.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/aapio500/public_html/portfolio.php on line 12
+[03-Apr-2016 02:59:38 UTC] PHP Warning:  include(cms/includes/foot.inc.php): failed to open stream: No such file or directory in /home/aapio500/public_html/portfolio.php on line 104
+[03-Apr-2016 02:59:38 UTC] PHP Warning:  include(cms/includes/foot.inc.php): failed to open stream: No such file or directory in /home/aapio500/public_html/portfolio.php on line 104
+[03-Apr-2016 02:59:38 UTC] PHP Warning:  include(): Failed opening 'cms/includes/foot.inc.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/aapio500/public_html/portfolio.php on line 104
+[04-Apr-2016 12:26:17 UTC] PHP Warning:  include(cms/includes/head.inc.php): failed to open stream: No such file or directory in /home/aapio500/public_html/portfolio.php on line 10
+[04-Apr-2016 12:26:17 UTC] PHP Warning:  include(cms/includes/head.inc.php): failed to open stream: No such file or directory in /home/aapio500/public_html/portfolio.php on line 10
+[04-Apr-2016 12:26:17 UTC] PHP Warning:  include(): Failed opening 'cms/includes/head.inc.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/aapio500/public_html/portfolio.php on line 10
+[04-Apr-2016 12:26:17 UTC] PHP Warning:  include(cms/includes/nav.inc.php): failed to open stream: No such file or directory in /home/aapio500/public_html/portfolio.php on line 12
+[04-Apr-2016 12:26:17 UTC] PHP Warning:  include(cms/includes/nav.inc.php): failed to open stream: No such file or directory in /home/aapio500/public_html/portfolio.php on line 12
+[04-Apr-2016 12:26:17 UTC] PHP Warning:  include(): Failed opening 'cms/includes/nav.inc.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/aapio500/public_html/portfolio.php on line 12
+[04-Apr-2016 12:26:17 UTC] PHP Warning:  include(cms/includes/foot.inc.php): failed to open stream: No such file or directory in /home/aapio500/public_html/portfolio.php on line 104
+[04-Apr-2016 12:26:17 UTC] PHP Warning:  include(cms/includes/foot.inc.php): failed to open stream: No such file or directory in /home/aapio500/public_html/portfolio.php on line 104
+[04-Apr-2016 12:26:17 UTC] PHP Warning:  include(): Failed opening 'cms/includes/foot.inc.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/aapio500/public_html/portfolio.php on line 104
