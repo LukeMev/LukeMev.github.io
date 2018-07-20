@@ -1,6 +1,6 @@
-﻿"This is where the user settings are stored, change this to determine what state you want the application to start into. Each option has the valid options in brackets next to it, don’t include quotes",
-"Start mode (""WATCH""/""EXPLORE"")",WATCH
-"Start UI On (""TRUE""/""FALSE"")",FALSE
-"Enable Location Settings Button (""TRUE""/""FALSE"")",TRUE
-"Show Errors (""TRUE""/""FALSE"")",TRUE
-"Faculty (""ALL""/""SIA""/""MAC""/""AD""/""COMP""/""ENG"")",COMP
+Settings,
+Start Mode,EXPLORE
+StartUIOn,TRUE
+EnableLocButtons,FALSE
+ShowErrors,FALSE
+Faculty,COMP
