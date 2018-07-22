@@ -1,0 +1,13 @@
+{
+"companyName": "Sheffield Hallam University",
+"productName": "STA Visual Mapping Project",
+"dataUrl": "AMP_3.0_WATCH_COMP.data.unityweb",
+"asmCodeUrl": "AMP_3.0_WATCH_COMP.asm.code.unityweb",
+"asmMemoryUrl": "AMP_3.0_WATCH_COMP.asm.memory.unityweb",
+"asmFrameworkUrl": "AMP_3.0_WATCH_COMP.asm.framework.unityweb",
+"TOTAL_MEMORY": 1073741824,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Light",
+"backgroundColor": "#FFFFFF"
+}
