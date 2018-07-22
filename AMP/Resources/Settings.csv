@@ -1,6 +1,6 @@
 Settings,
-Start Mode,EXPLORE
-StartUIOn,TRUE
-EnableLocButtons,FALSE
-ShowErrors,FALSE
-Faculty,COMP
+Start Mode,EXPLORE,
+StartUIOn,FALSE,
+EnableLocButtons,FALSE,
+ShowErrors,FALSE,
+Faculty,COMP,
