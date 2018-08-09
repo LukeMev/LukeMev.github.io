@@ -628,7 +628,7 @@ figure.hover figcaption {
   }
   /* Clip text element */
   .clip-text {
-   background-image: url("/images/snapTDS.png");
+   background-image: url("images/snapTDS.png");
    background-size:cover;
    font-weight: bold;
    line-height: 1;
