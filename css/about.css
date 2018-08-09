@@ -1,6 +1,6 @@
 .about-me {
   width: 100%;
-  background: url(https://s3-us-west-2.amazonaws.com/s.cdpn.io/652/greyzz.png);
+  background:center fixed url('../images/greyzz.png');
   border: 2px solid #004C85;
   outline: 5px solid #004C85;
   outline-offset: 10px;
