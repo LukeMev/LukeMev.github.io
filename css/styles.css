@@ -515,190 +515,190 @@ figure.hover figcaption {
 }
 .embed-container {
  position: relative;
-  padding-bottom: 56.25%;
-   height: 0;
-    overflow: hidden;
-     max-width: 100%;
+ padding-bottom: 56.25%;
+ height: 0;
+ overflow: hidden;
+ max-width: 100%;
 }
 .embed-container iframe, .embed-container object, .embed-container embed {
  position: absolute;
-  top: 0;
-  left: 0;
-  width: 100%;
+ top: 0;
+ left: 0;
+ width: 100%;
  height: 100%;
 }
-  .thumbnail{
-    background-color: #004C85;
-    border-radius: 10%;
-    border: 3px solid black;
+.thumbnail{
+  background-color: #004C85;
+  border-radius: 10%;
+  border: 3px solid black;
+}
+.thumbnail p, h3, h4{
+  color: black;
+  font-family: "coolveticaregular";
+  text-align: justify;
+}
+.thumbnail h3,h4{
+  text-align: center;
+}
+.thumbs img {
+  margin-top: 10px;
+  margin-bottom: 10px;
+  border-style: solid;
+  width: 40%;
+  border-width: 5px;
+  -webkit-border-radius: 8px;
+  -moz-border-radius: 8px;
+  border-radius: 8px;
+  -webkit-box-shadow: .666 1px 4px 3px;
+  -moz-box-shadow: .666 1px 4px 3px;
+  box-shadow: .666 1px 4px 3px;
+}
+#image1 {
+  padding: 0;
+  width: 70%;
+  left: 25px;
+  height: 70%;
+  position: relative;
+  border-radius: 8px;
+  border: 3px solid black;
+  float: none;
+  margin: 0 auto;
+}
+#searchText{
+  padding-left: 9%;
+  font-family: "lemonmilkregular";
+}
+/*NICE SHADOWS!*/
+.text3d{
+  text-shadow:#ccc 0 1px 0, #c9c9c9 0 2px 0, #bbb 0 3px 0, #b9b9b9 0 4px 0, #aaa 0 5px 0,rgba(0,0,0,.1) 0 6px 1px, rgba(0,0,0,.1) 0 0 5px, rgba(0,0,0,.3) 0 1px 3px, rgba(0,0,0,.15) 0 3px 5px, rgba(0,0,0,.2) 0 5px 10px, rgba(0,0,0,.2) 0 10px 10px, rgba(0,0,0,.1) 0 20px 20px;}
+  .textEmboss{
+    text-shadow:rgba(0,0,0,.2) 2px 6px 5px,rgba(255,255,255,.4) 0 -4px 30px;
   }
-  .thumbnail p, h3, h4{
-    color: black;
-    font-family: "coolveticaregular";
-    text-align: justify;
+  .textGlow{
+    text-shadow:#fff 0 0 15px;
   }
-  .thumbnail h3,h4{
-    text-align: center;
+  .elegantshadow {
+    text-shadow: 0 1px 0 #ccc, 0 2px 0 #c9c9c9, 0 3px 0 #bbb, 0 4px 0 #b9b9b9, 0 5px 0 #aaa, 0 6px 1px rgba(0,0,0,.1), 0 0 5px rgba(0,0,0,.1), 0 1px 3px rgba(0,0,0,.3), 0 3px 5px rgba(0,0,0,.2), 0 5px 10px rgba(0,0,0,.25), 0 10px 10px rgba(0,0,0,.2), 0 20px 20px rgba(0,0,0,.15);
   }
-  .thumbs img {
-    margin-top: 10px;
-    margin-bottom: 10px;
-    border-style: solid;
-    width: 40%;
-    border-width: 5px;
-    -webkit-border-radius: 8px;
-    -moz-border-radius: 8px;
-    border-radius: 8px;
-    -webkit-box-shadow: .666 1px 4px 3px;
-    -moz-box-shadow: .666 1px 4px 3px;
-    box-shadow: .666 1px 4px 3px;
+  .deepshadow {
+    letter-spacing: .1em;
+    text-shadow: 
+    0 -1px 0 #fff, 
+    0 1px 0 #2e2e2e, 
+    0 2px 0 #2c2c2c, 
+    0 3px 0 #2a2a2a, 
+    0 4px 0 #282828, 
+    0 5px 0 #262626, 
+    0 6px 0 #242424, 
+    0 7px 0 #222, 
+    0 8px 0 #202020, 
+    0 9px 0 #1e1e1e, 
+    0 10px 0 #1c1c1c, 
+    0 11px 0 #1a1a1a, 
+    0 12px 0 #181818, 
+    0 13px 0 #161616, 
+    0 14px 0 #141414, 
+    0 15px 0 #121212, 
+    0 22px 30px rgba(0, 0, 0, 0.9);
   }
-  #image1 {
-    padding: 0;
-    width: 70%;
-    left: 25px;
-    height: 70%;
-    position: relative;
-    border-radius: 8px;
-    border: 3px solid black;
-    float: none;
-    margin: 0 auto;
+  .insetshadow {
+    color: #202020;
+    background-color: #2d2d2d;
+    letter-spacing: .1em;
+    text-shadow: 
+    -1px -1px 1px #111, 
+    2px 2px 1px #363636;
   }
-  #searchText{
-    padding-left: 9%;
-    font-family: "lemonmilkregular";
+  .retroshadow {
+    color: #2c2c2c;
+    letter-spacing: .05em;
+    text-shadow: 
+    4px 4px 0px #d5d5d5, 
+    7px 7px 0px rgba(0, 0, 0, 0.2);
   }
-  /*NICE SHADOWS!*/
-  .text3d{
-    text-shadow:#ccc 0 1px 0, #c9c9c9 0 2px 0, #bbb 0 3px 0, #b9b9b9 0 4px 0, #aaa 0 5px 0,rgba(0,0,0,.1) 0 6px 1px, rgba(0,0,0,.1) 0 0 5px, rgba(0,0,0,.3) 0 1px 3px, rgba(0,0,0,.15) 0 3px 5px, rgba(0,0,0,.2) 0 5px 10px, rgba(0,0,0,.2) 0 10px 10px, rgba(0,0,0,.1) 0 20px 20px;}
-    .textEmboss{
-      text-shadow:rgba(0,0,0,.2) 2px 6px 5px,rgba(255,255,255,.4) 0 -4px 30px;
-    }
-    .textGlow{
-      text-shadow:#fff 0 0 15px;
-    }
-    .elegantshadow {
-      text-shadow: 0 1px 0 #ccc, 0 2px 0 #c9c9c9, 0 3px 0 #bbb, 0 4px 0 #b9b9b9, 0 5px 0 #aaa, 0 6px 1px rgba(0,0,0,.1), 0 0 5px rgba(0,0,0,.1), 0 1px 3px rgba(0,0,0,.3), 0 3px 5px rgba(0,0,0,.2), 0 5px 10px rgba(0,0,0,.25), 0 10px 10px rgba(0,0,0,.2), 0 20px 20px rgba(0,0,0,.15);
-    }
-    .deepshadow {
-      letter-spacing: .1em;
-      text-shadow: 
-      0 -1px 0 #fff, 
-      0 1px 0 #2e2e2e, 
-      0 2px 0 #2c2c2c, 
-      0 3px 0 #2a2a2a, 
-      0 4px 0 #282828, 
-      0 5px 0 #262626, 
-      0 6px 0 #242424, 
-      0 7px 0 #222, 
-      0 8px 0 #202020, 
-      0 9px 0 #1e1e1e, 
-      0 10px 0 #1c1c1c, 
-      0 11px 0 #1a1a1a, 
-      0 12px 0 #181818, 
-      0 13px 0 #161616, 
-      0 14px 0 #141414, 
-      0 15px 0 #121212, 
-      0 22px 30px rgba(0, 0, 0, 0.9);
-    }
-    .insetshadow {
-      color: #202020;
-      background-color: #2d2d2d;
-      letter-spacing: .1em;
-      text-shadow: 
-      -1px -1px 1px #111, 
-      2px 2px 1px #363636;
-    }
-    .retroshadow {
-      color: #2c2c2c;
-      letter-spacing: .05em;
-      text-shadow: 
-      4px 4px 0px #d5d5d5, 
-      7px 7px 0px rgba(0, 0, 0, 0.2);
-    }
-    @media only screen and (min-width: 760px) {
-      .clip-text {
-        font-size: 80px;
-      }
-    }
-    @media only screen and (max-width: 760px) {
-      .clip-text {
-        font-size: 40px;
-      }
-    }
-    /* Clip text element */
+  @media only screen and (min-width: 760px) {
     .clip-text {
-     background-image: url("/images/snapTDS.png");
-     background-size:cover;
-     font-weight: bold;
-     line-height: 1;
-     position: relative;
-     display: block;
-     margin: auto;
-     padding: .2em .2em;
-     /* Color fallback */
-     color: #fff;
-     -webkit-background-clip: text;
-     -webkit-text-fill-color: transparent;
-   }
-   .clip-text:before,
-   .clip-text:after {
-    position: absolute;
-    content: '';
+      font-size: 80px;
+    }
   }
-  /* Background */
-  .clip-text:before {
-    z-index: -2;
-    top: 0;
-    right: 0;
-    bottom: 0;
-    left: 0;
-    background-image: inherit;
+  @media only screen and (max-width: 760px) {
+    .clip-text {
+      font-size: 40px;
+    }
   }
-  /* Text Background (black zone) */
-  .clip-text:after {
-    position: absolute;
-    z-index: -1;
-    top: .15em;
-    right: .15em;
-    bottom: .15em;
-    left: .15em;
-    background-color: #FFFFF6;
-  }
-  /* Change the background position to display letter when the black zone isn't here */
-  .clip-text--no-textzone:before {
-    background-position: -.65em 0;
-  }
-  .clip-text--no-textzone:after {
-    content: none;
-  }
-  /* Use Background-size cover for photo background and no-repeat background */
-  .clip-text--cover,
-  .clip-text--cover:before {
-    background-repeat: no-repeat;
-    -webkit-background-size: cover;
-    background-size: cover;
-  }
-  .btn-custom {
-    background-color: hsl(198, 100%, 42%) !important;
-    background-repeat: repeat-x;
-    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#c1ecfe", endColorstr="#004C85");
-    background-image: -khtml-gradient(linear, left top, left bottom, from(#c1ecfe), to(#004C85));
-    background-image: -moz-linear-gradient(top, #c1ecfe, #004C85);
-    background-image: -ms-linear-gradient(top, #c1ecfe, #004C85);
-    background-image: -webkit-gradient(linear, left top, left bottom, color-stop(0%, #c1ecfe), color-stop(100%, #004C85));
-    background-image: -webkit-linear-gradient(top, #c1ecfe, #004C85);
-    background-image: -o-linear-gradient(top, #c1ecfe, #004C85);
-    background-image: linear-gradient(#c1ecfe, #004C85);
-    border-color: #004C85 #004C85 hsl(198, 100%, 30.5%);
-    color: #333 !important;
-    text-shadow: 0 1px 1px rgba(255, 255, 255, 0.75);
-    -webkit-font-smoothing: antialiased;
-  }
-  #section5 h1{
-    font-family: 'lemonmilkregular';
-  }
-  .blackStroke{
-   -webkit-text-stroke-width: 1px;
-   -webkit-text-stroke-color: black;
+  /* Clip text element */
+  .clip-text {
+   background-image: url("/images/snapTDS.png");
+   background-size:cover;
+   font-weight: bold;
+   line-height: 1;
+   position: relative;
+   display: block;
+   margin: auto;
+   padding: .2em .2em;
+   /* Color fallback */
+   color: #fff;
+   -webkit-background-clip: text;
+   -webkit-text-fill-color: transparent;
  }
+ .clip-text:before,
+ .clip-text:after {
+  position: absolute;
+  content: '';
+}
+/* Background */
+.clip-text:before {
+  z-index: -2;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  background-image: inherit;
+}
+/* Text Background (black zone) */
+.clip-text:after {
+  position: absolute;
+  z-index: -1;
+  top: .15em;
+  right: .15em;
+  bottom: .15em;
+  left: .15em;
+  background-color: #FFFFF6;
+}
+/* Change the background position to display letter when the black zone isn't here */
+.clip-text--no-textzone:before {
+  background-position: -.65em 0;
+}
+.clip-text--no-textzone:after {
+  content: none;
+}
+/* Use Background-size cover for photo background and no-repeat background */
+.clip-text--cover,
+.clip-text--cover:before {
+  background-repeat: no-repeat;
+  -webkit-background-size: cover;
+  background-size: cover;
+}
+.btn-custom {
+  background-color: hsl(198, 100%, 42%) !important;
+  background-repeat: repeat-x;
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#c1ecfe", endColorstr="#004C85");
+  background-image: -khtml-gradient(linear, left top, left bottom, from(#c1ecfe), to(#004C85));
+  background-image: -moz-linear-gradient(top, #c1ecfe, #004C85);
+  background-image: -ms-linear-gradient(top, #c1ecfe, #004C85);
+  background-image: -webkit-gradient(linear, left top, left bottom, color-stop(0%, #c1ecfe), color-stop(100%, #004C85));
+  background-image: -webkit-linear-gradient(top, #c1ecfe, #004C85);
+  background-image: -o-linear-gradient(top, #c1ecfe, #004C85);
+  background-image: linear-gradient(#c1ecfe, #004C85);
+  border-color: #004C85 #004C85 hsl(198, 100%, 30.5%);
+  color: #333 !important;
+  text-shadow: 0 1px 1px rgba(255, 255, 255, 0.75);
+  -webkit-font-smoothing: antialiased;
+}
+#section5 h1{
+  font-family: 'lemonmilkregular';
+}
+.blackStroke{
+ -webkit-text-stroke-width: 1px;
+ -webkit-text-stroke-color: black;
+}
