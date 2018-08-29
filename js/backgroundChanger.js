@@ -3,7 +3,7 @@
 	  var updating = true;//update bool
 	  var thePage; //timeout var
 	  var theInterval = 100; //update interval
-	  var timeStat = 30; // counter
+	  var timeStat = 1.0; // counter
 	  var rising = true; // timestat rising bool
 	  var change = true; // bg change
 
@@ -33,19 +33,21 @@
 	  function backgroundChange()
 	  {
 	  	if(bgChanging){
-	  		$('#section1').css("background-color", "rgba(69,184,248," + timeStat/100 + ")");
-	  		$('#section4').css("background-color", "rgba(0,0,0," + (0.7+(timeStat/400)) + ")");
-	  		if(timeStat > 120){
+	  		$('#section1').css("background-color", "rgba(69,184,248," + timeStat + ")");
+	  		$('#section2').css("background-color", "rgba(0,0,0," + (0.3+(timeStat)) + ")");
+	  		$('#section3').css("background-color", "rgba(0,0,0," + (0.3+(timeStat)) + ")");
+	  		$('#section4').css("background-color", "rgba(0,0,0," + (0.3+(timeStat)) + ")");
+	  		if(timeStat > 1.0){
 	  			rising = false;
 	  			change = true;
 	  		}
-	  		if(timeStat < 30){
+	  		if(timeStat < 0.25){
 	  			rising = true;  		
 	  		}
 	  		if(rising){
-	  			timeStat++;
+	  			timeStat += 0.0075;
 	  		}else{
-	  			timeStat--;
+	  			timeStat -= 0.0075;
 	  		}
 	  		if(change){
 	  			currentBG = imageArray[imageCounter];

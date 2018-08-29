@@ -3,38 +3,81 @@ $(document).ready(function()
   /* activate scrollspy menu */
   $('body').scrollspy
   ({
-    target: '#navbar-collapsible',
+    target: '.navbar',
     offset: 52
   });
 
+// For the scroll chaning active - Scrollspy was being annoying, made my own
+$(window).scroll(function() {
+  var scroll = $(window).scrollTop();
 
-  /*scrollspy helper, goes to the section on button press*/
-  $(function() 
+  var s1os = $('#section1').offset().top;
+  var s2os = $('#section2').offset().top;
+  var s3os = $('#section3').offset().top;
+  var s4os = $('#section4').offset().top;
+
+  var s1ht = $('#section1').height();
+  var s2ht = $('#section2').height();
+  var s3ht = $('#section3').height();
+  var s4ht = $('#section4').height();
+  if(scroll == 0)
   {
-    $('a[href*="#"]:not([href="#"])').click(function() {
-      if (location.pathname.replace(/^\//, '') == this.pathname.replace(/^\//, '') && location.hostname == this.hostname) {
-        var target = $(this.hash);
-        target = target.length ? target : $('[name=' + this.hash.slice(1) + ']');
-        if (target.length) {
-          $('html, body').animate({
-            scrollTop: target.offset().top
-          }, 1000);
-          return false;
-        }
+    $('#s1li').addClass('active');
+    $('#s2li').removeClass('active');
+    $('#s3li').removeClass('active');
+    $('#s4li').removeClass('active');
+  }
+  if(scroll > s1os + s2ht)
+  {
+    $('#s1li').removeClass('active');
+    $('#s2li').addClass('active');
+    $('#s3li').removeClass('active');
+    $('#s4li').removeClass('active');
+  }
+  if(scroll > s2os + s3ht)
+  {
+    $('#s1li').removeClass('active');
+    $('#s2li').removeClass('active');
+    $('#s3li').addClass('active');
+    $('#s4li').removeClass('active');
+  }
+    if(scroll > s3os + s4ht)
+  {
+    $('#s1li').removeClass('active');
+    $('#s2li').removeClass('active');
+    $('#s3li').removeClass('active');
+    $('#s4li').addClass('active');
+  }
+
+});
+
+/*scrollspy helper, goes to the section on button press*/
+$(function() 
+{
+  $('a[href*="#"]:not([href="#"])').click(function() {
+    if (location.pathname.replace(/^\//, '') == this.pathname.replace(/^\//, '') && location.hostname == this.hostname) {
+      var target = $(this.hash);
+      target = target.length ? target : $('[name=' + this.hash.slice(1) + ']');
+      if (target.length) {
+        $('html, body').animate({
+          scrollTop: target.offset().top
+        }, 1000);
+        return false;
       }
-    });
-  });
-
-
-  /*animate function*/
-  $.fn.extend({
-    animateCss: function(animationName) {
-      var animationEnd = 'webkitAnimationEnd mozAnimationEnd MSAnimationEnd oanimationend animationend';
-      $(this).addClass('animated ' + animationName).one(animationEnd, function() {
-        $(this).removeClass('animated ' + animationName);
-      });
     }
   });
+});
+
+
+/*animate function*/
+$.fn.extend({
+  animateCss: function(animationName) {
+    var animationEnd = 'webkitAnimationEnd mozAnimationEnd MSAnimationEnd oanimationend animationend';
+    $(this).addClass('animated ' + animationName).one(animationEnd, function() {
+      $(this).removeClass('animated ' + animationName);
+    });
+  }
+});
 
 
     var updating = true; //update bool
@@ -56,7 +99,7 @@ $(document).ready(function()
         }
         updateCountSec++;
         thePage = setTimeout(update, theInterval);
-      }
+      } 
     }
 
 

@@ -9,6 +9,7 @@ body {
   height: 100%;
   color: #444;
   font-family: 'Lato', sans-serif;
+  position: relative;
 }
 /* Scroll bar magic */
 ::-webkit-scrollbar {
@@ -51,7 +52,6 @@ a:hover {
   display: inline-block;
   overflow: hidden;
   margin: 0;
-  height: 3.55em;
   text-decoration: none;
   letter-spacing: .08em;
   -moz-transition: ease 0.35s all;
@@ -61,10 +61,10 @@ a:hover {
 }
 .button:hover,
 [class*="button-"]:hover {
-  box-shadow: 0 0 3px rgba(0, 0, 0, 0.5) inset;
+  box-shadow: 0 0 0px rgba(1, 1, 1, 1.1) inset;
 }
-.button-hover:hover {
-  line-height: 9em;
+.button-hover:hover 
+{
 }
 .button-hover:before {
   content: attr(data-text);
@@ -112,7 +112,7 @@ a.text-danger {
   font-family: 'coolveticaregular', serif;
 }
 .icon-bar {
-  background-color: #fff;
+  color: #fff;
 }
 .navbar-trans {
   background-color: #004C85;
@@ -122,17 +122,18 @@ a.text-danger {
 }
 .navbar-trans .navbar-brand,
 .navbar-trans >.container-fluid .navbar-brand {
-  padding: 14px;
+  padding: 0px;
   color: #f8eee7;
   font-family: 'master_of_breakregular', sans-serif;
   text-shadow: 0 1px 0 #999, 0 2px 0 #888, 0 3px 0 #777, 0 4px 0 #666, 0 5px 0 #555, 0 6px 0 #444, 0 7px 0 #333, 0 8px 7px #001135;
 }
-.navbar-trans li>a:focus,
 .navbar-trans li.active {
   background-color: #45B8F8;
   color: #f8eee7;
 }
-.navbar-trans li>a:hover {
+
+
+.navbar-trans li:hover {
   background-color: #2C192E;
   color: #fff;
   opacity: .5;
@@ -204,19 +205,21 @@ section {
   color: #fff;
   font-family: 'Bitter', serif;
 }
+.scroll-down{
+  color: #000;
+}
 #section2 {
-  background-color: #000;
+  background-color: rgba(0, 0, 0, 0.8);
 }
 #section3 {
-  background-color: #FFFFF6;
+  background-color: rgba(0, 0, 0, 0.8);
 }
 #section4 {
-  background-color: rgba(0, 0, 0, 0.9);
-  color: #fff;
+  background-color: rgba(0, 0, 0, 0.8);
   font-family: 'Bitter', serif;
 }
 #section5 {
-  background-color: #f6f6f6;
+  background-color: rgba(0, 0, 0, 0.8);
   color: #444;
 }
 
