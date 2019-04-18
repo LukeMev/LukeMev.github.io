@@ -7,6 +7,6 @@ Basic portfolio website using Github Pages with a DNS re-route from www.LukeMelv
 
 ## References
  
-Initial Template - https://github.com/evanca/quick-portfolio
+Initial Template - https://github.com/evanca/quick-portfolio <br>
 Favicon Generator - http://www.favicomatic.com
 
