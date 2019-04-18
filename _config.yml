@@ -7,7 +7,8 @@ description: >
   <br><br>
   <a href="https://www.linkedin.com/in/luke-melville-9aba00118/"><img src="/images/icon_linkedin.png?" alt="LinkedIn Icon" height="32" width="32"></a>
   <a href="https://github.com/LukeMev"><img src="/images/icon_github.png?" alt="LinkedIn Icon" height="32" width="32"></a> 
-theme: jekyll-theme-minimal
+theme: minimal-mistakes-jekyll
+minimal_mistakes_skin: "dark"
 google_analytics: UA-123694098-1 # your Google Analytics tracking ID here
 github:
   is_project_page: false
