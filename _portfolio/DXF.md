@@ -1,6 +1,6 @@
 ---
-title: "Test 2"
-excerpt: "Foo Bar design system including logo mark, website design, and branding applications."
+title: "DirectX Folidege System"
+excerpt: "UNDER WORK"
 header:
   image: http://placehold.it/1280x384
   teaser: http://placehold.it/512x256

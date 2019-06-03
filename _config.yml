@@ -22,7 +22,7 @@ minimal_mistakes_skin    : "dark" # "default", "air", "aqua", "contrast", "dark"
 
 # Site Settings
 locale                   : "en-GB"
-title                    : "Luke Melville"
+title                    : "Luke Melville - Still working on it!"
 title_separator          : "-"
 name                     : "Luke Melville"
 description              : "Game Programmer"
@@ -105,7 +105,7 @@ social:
 # Analytics
 analytics:
   provider               : google # false (default), "google", "google-universal", "custom"
-  google:
+  google: 
     tracking_id          : UA-123694098-1
     anonymize_ip         : # true, false (default)
 
@@ -114,7 +114,7 @@ analytics:
 author:
   name             : "Luke Melville"
   avatar           : "/assets/images/bio-logo.jpg"
-  bio              : "description here"
+  bio              : "Game Programmer"
   location         : "Sheffield, UK"
   email            : #"LukeMelville@gmail.com"
   links:

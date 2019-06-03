@@ -1,6 +1,6 @@
 ---
-title: "Test 1"
-excerpt: "Foo Bar design system including logo mark, website design, and branding applications."
+title: "Hogs of War - Reheated"
+excerpt: "UNDER WORK"
 header:
   image: http://placehold.it/1280x384
   teaser: http://placehold.it/512x256
