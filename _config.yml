@@ -25,12 +25,12 @@ locale                   : "en-GB"
 title                    : "Luke Melville - Still working on it!"
 title_separator          : "-"
 name                     : "Luke Melville"
-description              : "Game Programmer"
+description              : "Driven, Dedicated and Passionate about Games Programming"
 url                      : "https://lukemev.github.io/" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "LukeMev/LukeMev.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : "/assets/images/placeholder500x300.png"
-logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
+logo                     : "/assets/images/logo128t.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
@@ -114,7 +114,7 @@ analytics:
 author:
   name             : "Luke Melville"
   avatar           : "/assets/images/bio-logo.jpg"
-  bio              : "Game Programmer"
+  bio              : "Driven, Dedicated and Passionate about Games Programming"
   location         : "Sheffield, UK"
   email            : #"LukeMelville@gmail.com"
   links:

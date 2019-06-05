@@ -3,3 +3,5 @@ main:
     url: /
   - title: "CV"
     url: /cv/
+  - title: "Tags"
+    url: /tags/
