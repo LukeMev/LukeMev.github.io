@@ -12,7 +12,7 @@ sidebar:
     image_alt: "logo"
     text: "Lead Programmer"
   - title: "Responsibilities"
-    text: "Designing, iteratively testing and creating the entire game."
+    text: "Designing, iteratively testing and programming the game."
 gallery:
   - url: /assets/images/p_bacteria/s2.png
     image_path: /assets/images/p_bacteria/s2.png
