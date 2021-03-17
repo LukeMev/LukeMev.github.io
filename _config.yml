@@ -116,11 +116,11 @@ author:
   avatar           : "/assets/images/bio-logo.jpg"
   bio              : "Driven, Dedicated and Passionate about Games Programming"
   location         : "Sheffield, UK"
-  email            : #"LukeMelville@gmail.com"
+  email            : #"Luke.Melville@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: mailto:LukeMelville@gmail.com
+      url: mailto:Luke.Melville@gmail.com
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
