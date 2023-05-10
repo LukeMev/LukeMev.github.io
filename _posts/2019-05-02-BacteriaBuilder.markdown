@@ -42,9 +42,3 @@ Bacteria Builder challenges you to learn about bacterial form and function to cr
 {% include gallery caption="Bacteria Builder Android screenshots" %}
 
 The game was created in Unity, and was a very educational experience. It enabled me to develop my Unity skills, which is extremely useful for rapid prototypeing. I also furthered my academic skills, as this was my first research paper to be published in a conference. The extended game and paper presentations I had to deliver on the main track of the conference also significantly improved my presentation skills.
-
-PRIVACY POLICY
-<iframe
-  src="https://codepen.io/team/codepen/embed/preview/YzJLpYE"
-  style="width:100%; height:500;"
-></iframe>
